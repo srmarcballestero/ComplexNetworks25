@@ -1,0 +1,50 @@
+--------------------< RYANAIR >--------------------
+Top 5 nodes for degree_centrality:
+    London Stansted Airport                 : 0.67
+    Dublin Airport                          : 0.43
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.35
+    Brussels South Charleroi Airport        : 0.29
+    Alicante-Elche Miguel Hernández Airport : 0.25
+
+Top 5 nodes for closeness_centrality:
+    London Stansted Airport                 : 0.73
+    Dublin Airport                          : 0.63
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.59
+    Alicante-Elche Miguel Hernández Airport : 0.56
+    Girona-Costa Brava Airport              : 0.56
+
+Top 5 nodes for betweenness_centrality:
+    London Stansted Airport                 : 0.43
+    Dublin Airport                          : 0.13
+    Brussels South Charleroi Airport        : 0.07
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.06
+    Alicante-Elche Miguel Hernández Airport : 0.05
+
+Top 5 nodes for eigenvector_centrality:
+    London Stansted Airport                 : 0.32
+    Dublin Airport                          : 0.28
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.25
+    Brussels South Charleroi Airport        : 0.20
+    Adolfo Suárez Madrid–Barajas Airport    : 0.19
+
+Top 5 nodes for pagerank_centrality:
+    London Stansted Airport                 : 0.08
+    Dublin Airport                          : 0.04
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.03
+    Brussels South Charleroi Airport        : 0.03
+    Alicante-Elche Miguel Hernández Airport : 0.02
+
+Top 5 nodes for katz_centrality:
+    Milan Bergamo Airport / Antonio Locatelli Air Base: 0.30
+    Dublin Airport                          : 0.25
+    Ciampino–G. B. Pastine International Airport: 0.24
+    Adolfo Suárez Madrid–Barajas Airport    : 0.24
+    Brussels South Charleroi Airport        : 0.22
+
+Top 5 nodes for clustering_coefficient:
+    Bordeaux-Mérignac Airport               : 1.00
+    Rodez–Aveyron Airport                   : 1.00
+    Nantes Atlantique Airport               : 1.00
+    Poznań-Ławica Airport                   : 1.00
+    Brno-Tuřany Airport                     : 1.00
+

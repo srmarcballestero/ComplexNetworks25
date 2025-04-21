@@ -1,0 +1,50 @@
+--------------------< AIR FRANCE >--------------------
+Top 5 nodes for degree_centrality:
+    Charles de Gaulle International Airport : 0.86
+    Lyon Saint-Exupéry Airport              : 0.10
+    Paris-Orly Airport                      : 0.10
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.10
+    Josep Tarradellas Barcelona-El Prat Airport: 0.07
+
+Top 5 nodes for closeness_centrality:
+    Charles de Gaulle International Airport : 0.88
+    Paris-Orly Airport                      : 0.51
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.51
+    Josep Tarradellas Barcelona-El Prat Airport: 0.50
+    Milan Malpensa International Airport    : 0.50
+
+Top 5 nodes for betweenness_centrality:
+    Charles de Gaulle International Airport : 0.96
+    Paris-Orly Airport                      : 0.10
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.07
+    Milan Malpensa International Airport    : 0.05
+    Josep Tarradellas Barcelona-El Prat Airport: 0.02
+
+Top 5 nodes for eigenvector_centrality:
+    Charles de Gaulle International Airport : 0.69
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.14
+    Paris-Orly Airport                      : 0.14
+    Josep Tarradellas Barcelona-El Prat Airport: 0.14
+    Milan Malpensa International Airport    : 0.12
+
+Top 5 nodes for pagerank_centrality:
+    Charles de Gaulle International Airport : 0.34
+    Paris-Orly Airport                      : 0.04
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.04
+    Lyon Saint-Exupéry Airport              : 0.04
+    Milan Malpensa International Airport    : 0.03
+
+Top 5 nodes for katz_centrality:
+    Charles de Gaulle International Airport : 0.59
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.15
+    Paris-Orly Airport                      : 0.15
+    Josep Tarradellas Barcelona-El Prat Airport: 0.14
+    Milan Malpensa International Airport    : 0.13
+
+Top 5 nodes for clustering_coefficient:
+    Naples International Airport            : 1.00
+    Figari Sud-Corse Airport                : 1.00
+    Josep Tarradellas Barcelona-El Prat Airport: 0.17
+    Paris-Orly Airport                      : 0.13
+    Rome–Fiumicino Leonardo da Vinci International Airport: 0.07
+

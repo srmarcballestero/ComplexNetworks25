@@ -1,0 +1,50 @@
+--------------------< ALL >--------------------
+Top 5 nodes for degree_centrality:
+    Munich Airport                          : 0.74
+    Frankfurt Airport                       : 0.73
+    Düsseldorf Airport                      : 0.40
+    Hamburg Helmut Schmidt Airport          : 0.18
+    Milan Malpensa International Airport    : 0.16
+
+Top 5 nodes for closeness_centrality:
+    Munich Airport                          : 0.79
+    Frankfurt Airport                       : 0.79
+    Düsseldorf Airport                      : 0.61
+    Hamburg Helmut Schmidt Airport          : 0.54
+    Milan Malpensa International Airport    : 0.53
+
+Top 5 nodes for betweenness_centrality:
+    Munich Airport                          : 0.48
+    Frankfurt Airport                       : 0.46
+    Düsseldorf Airport                      : 0.09
+    Bremen Airport                          : 0.05
+    Milan Malpensa International Airport    : 0.04
+
+Top 5 nodes for eigenvector_centrality:
+    Frankfurt Airport                       : 0.44
+    Munich Airport                          : 0.44
+    Düsseldorf Airport                      : 0.32
+    Hamburg Helmut Schmidt Airport          : 0.20
+    Milan Malpensa International Airport    : 0.17
+
+Top 5 nodes for pagerank_centrality:
+    Munich Airport                          : 0.15
+    Frankfurt Airport                       : 0.15
+    Düsseldorf Airport                      : 0.07
+    Hamburg Helmut Schmidt Airport          : 0.03
+    Milan Malpensa International Airport    : 0.03
+
+Top 5 nodes for katz_centrality:
+    Frankfurt Airport                       : 0.45
+    Munich Airport                          : 0.44
+    Düsseldorf Airport                      : 0.39
+    Hamburg Helmut Schmidt Airport          : 0.25
+    Milan Malpensa International Airport    : 0.20
+
+Top 5 nodes for clustering_coefficient:
+    Lisbon Humberto Delgado Airport         : 1.00
+    Bucharest Henri Coandă International Airport: 1.00
+    Sofia Airport                           : 1.00
+    Palma de Mallorca Airport               : 1.00
+    Nice-Côte d'Azur Airport                : 1.00
+

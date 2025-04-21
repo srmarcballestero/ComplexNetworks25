@@ -1,0 +1,4389 @@
+icao_code,name
+OATD,Toorghodi Heliport
+OALG,Logar Airport
+AGAF,Afutara Aerodrome
+AGAR,Ulawa Airport
+AGAT,Uru Harbour Airport
+AGBA,Barakoma Airport
+AGBT,Batuna Aerodrome
+AGEV,Geva Airport
+AGGA,Gwaunaru'u Airport
+AGGB,Bellona/Anua Airport
+AGGC,Choiseul Bay Airport
+AGGE,Ballalae Airport
+AGGF,Fera/Maringe Airport
+AGGH,Honiara International Airport
+AGGI,Babanakira Airport
+AGGJ,Avu Avu Airport
+AGGK,Ngorangora Airport
+AGGL,Santa Cruz/Graciosa Bay/Luova Airport
+AGGM,Munda Airport
+AGGN,Nusatupe Airport
+AGGO,Mono Airport
+AGGP,Parasi Airport
+AGGR,Rennell/Tingoa Airport
+AGGS,Sege Airport
+AGGT,Santa Ana Airport
+AGGU,Marau Airport
+AGGV,Suavanao Airport
+AGGY,Yandina Airport
+AGIN,Isuna Heliport
+AGKG,Kaghau Airport
+AGKU,Kukudu Airport
+AGKW,Kwailabesi Airport
+AGLM,Lomlom Airport
+AGNA,Nana Airport
+AGOB,Manaoba Airport
+AGOK,Gatokae Aerodrome
+AGRC,Ringi Cove Airport
+AGRM,Ramata Airport
+AGTI,Tulaghi Heliport
+ANYN,Nauru International Airport
+YPAS,Packsaddle Airport
+YMRO,Moora Airport
+YOKH,Oakden Hills Airport
+YWIR,Wirraminna Airport
+AYAA,Ama Airport
+AYAE,Mount Aue Airport
+AYAF,Afore Airstrip
+AYAG,Agaun Airport
+AYAI,Aitape Airport
+AYAK,Aiambak Airport
+AYAM,Amanab Airport
+AYAN,Andakombe Airport
+AYAO,Aiome Airport
+AYAQ,Kompiam Airport
+AYAT,Ambunti Airport
+AYAW,Awaba Airport
+AYAX,Aseki Airport
+AYAY,Aiyura Airport
+AYBA,Baimuru Airport
+AYBC,Bambu Airport
+AYBD,Bodinumu Airport
+AYBF,Bamu Airport
+AYBG,Baindoung Airport
+AYBH,Bensbach Airport
+AYBI,Bewani Airport
+AYBK,Buka Airport
+AYBL,Bialla Airport
+AYBM,Balimo Airport
+AYBO,Bomai Airport
+AYBP,Bapi Airstrip
+AYBQ,Biangabip Airport
+AYBR,Biaru Airport
+AYBU,Bulolo Airport
+AYBZ,Biniguni Airport
+AYCB,Chungribu Airport
+AYCG,Cape Gloucester Airport
+AYCH,Chimbu Airport
+AYCS,China Strait Airstrip
+AYDB,Debepare Airport
+AYDE,Derim Airport
+AYDI,Bundi Airport
+AYDK,Munduku Airport
+AYDL,Kondobol Airport
+AYDN,Dinangat Airport
+AYDO,Doini Airport
+AYDR,Dorobisoro Airport
+AYDU,Daru Airport
+AYEA,Kerau Airport
+AYEB,Embessa Airport
+AYED,Edwaki Airport
+AYEE,Emirau Airport
+AYEF,Efogi Airport
+AYEH,Morehead Airport
+AYEL,Eliptamin Airport
+AYEN,Engati Airstrip
+AYEO,Emo River Airstrip
+AYER,Erume Airport
+AYET,Bosset Airport
+AYEV,Erave Airport
+AYEW,Siwea Airport
+AYFA,Fane Airport
+AYFF,Faia Airport
+AYFI,Finschhafen Airport
+AYFR,Frieda River Airport
+AYFU,Fuma Airport
+AYGA,Goroka Airport
+AYGC,Gewoia Airport
+AYGF,Guari Airport
+AYGG,Garasa Airport
+AYGI,Garaina Airport
+AYGJ,Guasopa Airport
+AYGL,Gonaili Airport
+AYGN,Gurney Airport
+AYGP,Gusap Airport
+AYGR,Girua Airport
+AYGS,Gasuke Airport
+AYGT,Gasmata Island Airport
+AYGU,Anguganak Airport
+AYGV,Green River Airport
+AYGX,Gora Airstrip
+AYHB,Habi Airport
+AYHE,Heiweni Airport
+AYHF,Hayfields Airport
+AYHH,Honinabi Airport
+AYHK,Hoskins Airport
+AYHO,Haivaro Airport
+AYHU,Hawabango Airport
+AYIA,Nissan Island Airport
+AYID,Indagen Airport
+AYII,Imane Airport
+AYIM,Kungim Airport
+AYIO,Imonda Airport
+AYIQ,Aropa Airport
+AYIW,Wasua Airport
+AYIX,Witu Airport
+AYIY,Miyanmin Airport
+AYJO,Yongai Airport
+AYJS,Josephstaal Airport
+AYKA,Losuia Airport
+AYKB,Kabwum
+AYKC,Kandrian Airport
+AYKD,Kamina Airport
+AYKG,Kopiago Airport
+AYKH,Kamulai Airport
+AYKI,Kiunga Airport
+AYKJ,Kanainj Airport
+AYKK,Kikori Airport
+AYKM,Kerema Airport
+AYKO,Kokoda Airport
+AYKQ,Kagi Airport
+AYKR,Kar Kar Airport
+AYKT,Kaintiba Airport
+AYKU,Kuri Airport
+AYKV,Kavieng Airport
+AYKW,Kawito Airport
+AYKY,Londolovit Airport
+AYLB,Lab Lab Airport
+AYLG,Keglsugl Airport
+AYLI,Kibuli Airstrip
+AYLL,Linga Linga Airport
+AYLN,Langimar Airport
+AYLO,Lowai Airport
+AYLP,Leron Plains Airport
+AYLS,Lese Airport
+AYLT,Lengbati Airport
+AYLU,Lumi Airport
+AYLX,Long Island Airport
+AYMA,Manari Airport
+AYMB,Morobe Airport
+AYMC,Menyamya Airport
+AYMD,Madang Airport
+AYMH,Mount Hagen Kagamuga Airport
+AYMI,Mindik Airport
+AYMJ,Makini Airport
+AYML,Mougulu Airport
+AYMN,Mendi Airport
+AYMO,Momote Airport
+AYMP,Malalaua Airport
+AYMQ,Malam Airport
+AYMR,Moro Airport
+AYMS,Misima Island Airport
+AYMV,Malekolon Airport
+AYMW,Marawaka Airport
+AYMZ,Mapua(Mabua) Airport
+AYNA,Nankina Airport
+AYNB,Kanabea Airport
+AYNC,Nadunumu Airport
+AYND,Aua Island Airport
+AYNE,Negarbo(Negabo) Airport
+AYNI,Nuguria Airstrip
+AYNJ,Namudi Airport
+AYNM,Kasonombe Airport
+AYNN,Kandep Airport
+AYNO,Nomane Airport
+AYNS,Bunsil Airport
+AYNU,Nuku Airport
+AYNX,Namatanai Airport
+AYNY,Nambaiyufa Airport
+AYNZ,Nadzab Airport
+AYOB,Obo Airport
+AYOE,Konge Airport
+AYOF,Okao Airport
+AYOG,Ogeranang Airport
+AYOJ,Oksapmin Airport
+AYOK,Komako Airport
+AYOL,Kol Airport
+AYOM,Omora Airport
+AYOO,Komo-Manda Airport
+AYOP,Kosipe Airport
+AYOQ,Komaio Airport
+AYOV,Olsobip Airport
+AYOW,Koroba Airport
+AYPB,Paiela Airport
+AYPC,Pangoa Airport
+AYPD,Pindiu Airport
+AYPE,April River Airport
+AYPG,Pangia Airport
+AYPJ,Pimaga Airport
+AYPO,Mapoda Airport
+AYPQ,Pumani Airport
+AYPY,Port Moresby Jacksons International Airport
+AYQA,Karawari Airstrip
+AYQL,Tumolbil Airport
+AYQO,Sopu Airport
+AYQQ,Ononge Airport
+AYQS,Sialum Airport
+AYRA,Kira Airport
+AYRE,Raba Raba Airport
+AYRG,Rumginae Airport
+AYRI,Karimui Airport
+AYRK,Kairuku Airport
+AYRM,Maramuni Airport
+AYRO,Kakoro(Koroko) Airstrip
+AYSA,Suabi Airport
+AYSD,Saidor Airport
+AYSE,Simberi Airport
+AYSF,Safia Airport
+AYSG,Sila Airport
+AYSH,Sabah Airport
+AYSJ,Simbai Airport
+AYSK,Sengapi Airstrip
+AYSL,Sehulea Airport
+AYSO,Selbang Airport
+AYSP,Sapmanga Airport
+AYSS,Sasereme Airport
+AYSU,Suki Airport
+AYSV,Sauren Airport
+AYSW,Satwag Airport
+AYSX,Masa Airport
+AYTA,Tari Airport
+AYTB,Tabubil Airport
+AYTE,Telefomin Airport
+AYTF,Tetebedi Airport
+AYTG,Tagula Airport
+AYTH,Tifalmin Airport
+AYTI,Tapini Airport
+AYTK,Tokua Airport
+AYTN,Tekin Airport
+AYTO,Kamberatoro Airport
+AYTP,Tep Tep Airport
+AYTR,Tarabo Airport
+AYTS,Tsewi Airport
+AYTT,Tarakbits Airport
+AYTU,Tufi Airport
+AYTV,Timbunke Airport
+AYTW,Tawa Airport
+AYTY,Terapo Airport
+AYTZ,Tekadu Airport
+AYUC,Umba Airport
+AYUE,Uroubi Airport
+AYUI,Buin Airport
+AYUM,Aumo Airport
+AYUP,Gulgubip Airport
+AYUR,Upiara Airport
+AYUY,Kuyol Airport
+AYUZ,Uvol Airport
+AYVL,Talasea Airport
+AYVM,Torembi Airport
+AYVN,Vanimo Airport
+AYVO,Tonu Airport
+AYVW,Wuvulu Island Airport
+AYWB,Wabo Airport
+AYWC,Wantoat Airport
+AYWD,Wapenamanda Airport
+AYWF,Wawoi Falls Airport
+AYWG,Wanigela Airport
+AYWH,Wanuma Airport
+AYWJ,Wapolu Airport
+AYWK,Wewak International Airport
+AYWO,Wonenara Airport
+AYWQ,Wakunai Airport
+AYWS,Wasu Airport
+AYWT,Woitape Airport
+AYWU,Wau Airport
+AYXE,Yeva Airport
+AYXI,Sim Airport
+AYXO,Tol Airport
+AYXP,Wipim Airport
+AYXW,Weam Airport
+AYYE,Yalumet Airport
+AYYK,Yenkis(Yankisa) Airport
+AYYL,Tinboli Airport
+AYYM,Munbil Airport
+AYYO,Oram Airport
+AYYP,Yapsiei Airport
+AYYR,Yasuru Airport
+AYZA,Zenag Airport
+AYZI,Silur Airport
+AYZN,Sissano Airport
+AYZS,Ossima Airport
+BGAA,Aasiaat Airport
+BGBW,Narsarsuaq Airport
+BGCH,Qasigiannguit Heliport
+BGCO,Neerlerit Inaat Airport
+BGGH,Nuuk Airport
+BGJN,Ilulissat Airport
+BGKK,Kulusuk Airport
+BGMQ,Maniitsoq Airport
+BGPT,Paamiut Airport
+BGQQ,Qaanaaq Airport
+BGSF,Kangerlussuaq Airport
+BGSS,Sisimiut Airport
+BGTL,Pituffik Space Base
+BGUK,Upernavik Airport
+BGUM,Uummannaq Heliport
+BGUQ,Qaarsut Airport
+BIAR,Akureyri Airport
+BIBD,Bildudalur Airport
+BIBF,Borgarfjörður eystri Airport
+BIBK,Bakkafjörður Airport
+BIBL,Blönduós Airport
+BIBV,Breiðdalsvík Airport
+BIDV,Djúpivogur Airport
+BIEG,Egilsstaðir Airport
+BIFF,Fáskrúðsfjörður Airport
+BIFM,Fagurhólsmýri Airport
+BIGF,Grundarfjörður Airport
+BIGJ,Gjögur Airport
+BIGR,Grímsey Airport
+BIHK,Hólmavík Airport
+BIHN,Hornafjörður Airport
+BIHU,Húsavík Airport
+BIIS,Ísafjörður Airport
+BIKF,Keflavik International Airport
+BIKP,Kópasker Airport
+BIKR,Sauðárkrókur Airport
+BINF,Norðfjörður Airport
+BIOF,Ólafsfjörður Airport
+BIPA,Patreksfjörður Airport
+BIRE,Reykhólar Airport
+BIRF,Rif Airport
+BIRG,Raufarhöfn Airport
+BIRK,Reykjavík Domestic Airport
+BIRL,Reykjahlíð Airport
+BISI,Siglufjörður Airport
+BIST,Stykkishólmur Airport
+BITE,Þingeyri Airport
+BITN,Þórshöfn Airport
+BIVM,Vestmannaeyjar Airport
+BIVO,Vopnafjörður Airport
+BKPR,Priština Adem Jashari International Airport
+CBBC,Bella Bella (Campbell Island) Airport
+ZGSG,Shaoguan Danxia Airport
+ZBMV,Dengkou General Aviation Airport
+ZSLI,Lishui Airport
+LCNC,UNFICYP Nicosia Airport Heliport
+CYAB,Arctic Bay Airport
+CYAC,Cat Lake Airport
+CYAD,La Grande-3 Airport
+CYAG,Fort Frances Municipal Airport
+CYAH,La Grande-4 Airport
+CYAL,Alert Bay Airport
+CYAM,Sault Ste Marie Airport
+CYAQ,Kasabonika Airport
+CYAS,Kangirsuk Airport
+CYAT,Attawapiskat Airport
+CYAY,St. Anthony Airport
+CYAZ,Tofino / Long Beach Airport
+CYBA,Banff Airport
+CYBB,Kugaaruk Airport
+CYBC,Baie-Comeau Airport
+CYBD,Bella Coola Airport
+CYBE,Uranium City Airport
+CYBF,Bonnyville Airport
+CYBG,CFB Bagotville / Saguenay-Bagotville Airport
+CYBK,Baker Lake Airport
+CYBL,Campbell River Airport
+CYBQ,Tadoule Lake Airport
+CYBR,Brandon Municipal Airport
+CYBT,Brochet Airport
+CYBV,Berens River Airport
+CYBX,Lourdes-de-Blanc-Sablon Airport
+CYCA,Cartwright Airport
+CYCB,Cambridge Bay Airport
+CYCC,Cornwall Regional Airport
+CYCD,Nanaimo Airport
+CYCE,Centralia / James T. Field Memorial Aerodrome
+CYCG,Castlegar/West Kootenay Regional Airport
+CYCH,Miramichi Airport
+CYCK,Chatham Kent Airport
+CYCL,Charlo Airport
+CYCN,Cochrane Airport
+CYCO,Kugluktuk Airport
+CYCQ,Chetwynd Airport
+CYCR,Cross Lake (Charlie Sinclair Memorial) Airport
+CYCS,Chesterfield Inlet Airport
+CYCT,Coronation Airport
+CYCW,Chilliwack Airport
+CYCY,Clyde River Airport
+CYCZ,Fairmont Hot Springs Airport
+CYDA,Dawson City Airport
+CYDB,Burwash Airport
+CYDF,Deer Lake Airport
+CYDL,Dease Lake Airport
+CYDM,Ross River Airport
+CYDN,Dauphin Barker Airport
+CYDO,Dolbeau-Saint-Felicien Airport
+CYDP,Nain Airport
+CYDQ,Dawson Creek Airport
+CYEG,Edmonton International Airport
+CYEK,Arviat Airport
+CYEL,Elliot Lake Municipal Airport
+CYEM,Manitoulin East Municipal Airport
+CYEN,Estevan Airport
+CYER,Fort Severn Airport
+CYET,Edson Airport
+CYEU,Eureka Airport
+CYEV,Inuvik Mike Zubko Airport
+CYEY,Amos/Magny Airport
+CYFA,Fort Albany Airport
+CYFB,Iqaluit Airport
+CYFC,Fredericton Airport
+CYFE,Forestville Airport
+CYFH,Fort Hope Airport
+CYFJ,Mont-Tremblant International Airport
+CYFO,Flin Flon Airport
+CYFR,Fort Resolution Airport
+CYFS,Fort Simpson Airport
+CYFT,Makkovik Airport
+CYGB,Texada Gillies Bay Airport
+CYGH,Fort Good Hope Airport
+CYGK,Kingston Norman Rogers Airport
+CYGL,La Grande Rivière Airport
+CYGM,Gimli Industrial Park Airport
+CYGO,Gods Lake Narrows Airport
+CYGP,Michel-Pouliot Gaspé Airport
+CYGQ,Geraldton Greenstone Regional Airport
+CYGR,Îles-de-la-Madeleine Airport
+CYGT,Igloolik Airport
+CYGV,Havre-Saint-Pierre Airport
+CYGW,Kuujjuarapik Airport
+CYGX,Gillam Airport
+CYGZ,Grise Fiord Airport
+CYHA,Quaqtaq Airport
+CYHB,Hudson Bay Airport
+CYHC,Vancouver Harbour Water Aerodrome
+CYHD,Dryden Regional Airport
+CYHE,Hope Airport / FVRD Regional Airpark
+CYHF,Hearst René Fontaine Municipal Airport
+CYHH,Nemiscau Airport
+CYHI,Ulukhaktok Holman Airport
+CYHK,Gjoa Haven Airport
+CYHM,John C. Munro Hamilton International Airport
+CYHN,Hornepayne Municipal Airport
+CYHO,Hopedale Airport
+CYHP,Poplar Hill Airport
+CYHR,Chevery Airport
+CYHT,Haines Junction Airport
+CYHU,Montréal / Saint-Hubert Metropolitan Airport
+CYHY,Hay River / Merlyn Carter Airport
+CYHZ,Halifax / Stanfield International Airport
+CYIB,Atikokan Municipal Airport
+CYID,Digby / Annapolis Regional Airport
+CYIF,St Augustin Airport
+CYIK,Ivujivik Airport
+CYIO,Pond Inlet Airport
+CYIV,Island Lake Airport
+CYJA,Jasper Airport
+CYJF,Fort Liard Airport
+CYJN,St Jean Airport
+CYJT,Dymond Airport
+CYKA,Kamloops John Moose Fulton Field Regional Airport
+CYKC,Collins Bay Airport
+CYKD,Aklavik/Freddie Carmichael Airport
+CYKF,Region of Waterloo International Airport
+CYKG,Kangiqsujuaq (Wakeham Bay) Airport
+CYKJ,Key Lake Airport
+CYKL,Schefferville Airport
+CYKM,Kincardine Municipal Airport
+CYKO,Akulivik Airport
+CYKP,Ogoki Post Airport
+CYKQ,Waskaganish Airport
+CYKX,Kirkland Lake Airport
+CYKY,Kindersley Airport
+CYLA,Aupaluk Airport
+CYLB,Lac La Biche Airport
+CYLC,Kimmirut Airport
+CYLD,Chapleau Airport
+CYLH,Lansdowne House Airport
+CYLJ,Meadow Lake Airport
+CYLK,Lutselk'e Airport
+CYLL,Lloydminster Airport
+CYLQ,La Tuque Airport
+CYLR,Leaf Rapids Airport
+CYLS,Barrie-Lake Simcoe Regional Airport
+CYLT,Alert Airport
+CYLU,Kangiqsualujjuaq (Georges River) Airport
+CYLW,Kelowna International Airport
+CYMA,Mayo Airport
+CYME,Matane Airport
+CYMG,Manitouwadge Airport
+CYMH,Mary's Harbour Airport
+CYMJ,Moose Jaw Air Vice Marshal C. M. McEwen Airport
+CYML,Charlevoix Airport
+CYMM,Fort McMurray Airport
+CYMO,Moosonee Airport
+CYMT,Chapais Airport
+CYMU,Umiujaq Airport
+CYMW,Maniwaki Airport
+CYMX,Montreal International (Mirabel) Airport
+CYNA,Natashquan Airport
+CYNC,Wemindji Airport
+CYND,Ottawa / Gatineau Airport
+CYNE,Norway House Airport
+CYNH,Hudson's Hope Airport
+CYNJ,Langley Airport
+CYNL,Points North Landing Airport
+CYNM,Matagami Airport
+CYNR,Fort Mackay / Horizon Airport
+CYOA,Ekati Airport
+CYOC,Old Crow Airport
+CYOD,CFB Cold Lake
+CYOH,Oxford House Airport
+CYOJ,High Level Airport
+CYOO,Oshawa Executive Airport
+CYOP,Rainbow Lake Airport
+CYOS,Owen Sound / Billy Bishop Regional Airport
+CYOW,Ottawa Macdonald-Cartier International Airport
+CYPA,Prince Albert Glass Field
+CYPC,Paulatuk (Nora Aliqatchialuk Ruben) Airport
+CYPD,Port Hawkesbury Airport
+CYPE,Peace River Airport
+CYPG,Portage-la-Prairie / Southport Airport
+CYPH,Inukjuak Airport
+CYPL,Pickle Lake Airport
+CYPM,Pikangikum Airport
+CYPN,Port-Menier Airport
+CYPO,Peawanuck Airport
+CYPQ,Peterborough Municipal Airport
+CYPR,Prince Rupert Airport
+CYPW,Powell River Airport
+CYPX,Puvirnituq Airport
+CYPY,Fort Chipewyan Airport
+CYPZ,Burns Lake Airport
+CYQA,Muskoka Airport
+CYQB,Quebec Jean Lesage International Airport
+CYQD,The Pas Airport
+CYQF,Red Deer Regional Airport
+CYQG,Windsor Airport
+CYQH,Watson Lake Airport
+CYQI,Yarmouth Airport
+CYQK,Kenora Airport
+CYQL,Lethbridge County Airport
+CYQM,Greater Moncton Roméo LeBlanc International Airport
+CYQN,Nakina Airport
+CYQQ,Comox Valley Airport / CFB Comox
+CYQR,Regina International Airport
+CYQS,St Thomas Municipal Airport
+CYQT,Thunder Bay Airport
+CYQU,Grande Prairie Airport
+CYQV,Yorkton Municipal Airport
+CYQW,North Battleford Airport
+CYQX,Gander International Airport / CFB Gander
+CYQY,Sydney / J.A. Douglas McCurdy Airport
+CYQZ,Quesnel Airport
+CYRA,Rae Lakes Airport
+CYRB,Resolute Bay Airport
+CYRI,Rivière-du-Loup Airport
+CYRJ,Roberval Airport
+CYRL,Red Lake Airport
+CYRM,Rocky Mountain House Airport
+CYRO,Ottawa / Rockcliffe Airport
+CYRQ,Trois-Rivières Airport
+CYRS,Red Sucker Lake Airport
+CYRT,Rankin Inlet Airport
+CYRV,Revelstoke Airport
+CYSB,Sudbury Airport
+CYSC,Sherbrooke Airport
+CYSD,Canadian Forces Base Suffield Heliport
+CYSE,Squamish Airport
+CYSF,Stony Rapids Airport
+CYSH,Smiths Falls-Montague (Russ Beach) Airport
+CYSJ,Saint John Airport
+CYSK,Sanikiluaq Airport
+CYSL,Saint-Léonard Airport
+CYSM,Fort Smith Airport
+CYSN,Niagara District Airport
+CYSP,Marathon Airport
+CYST,St. Theresa Point Airport
+CYSU,Summerside Airport
+CYSY,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport
+CYTA,Pembroke Airport
+CYTE,Cape Dorset Airport
+CYTF,Alma Airport
+CYTH,Thompson Airport
+CYTL,Big Trout Lake Airport
+CYTQ,Tasiujaq Airport
+CYTR,CFB Trenton
+CYTS,Timmins/Victor M. Power
+CYTZ,Billy Bishop Toronto City Centre Airport
+CYUB,Tuktoyaktuk / James Gruben Airport
+CYUL,Montreal / Pierre Elliott Trudeau International Airport
+CYUT,Naujaat Airport
+CYUX,Hall Beach Airport
+CYUY,Rouyn Noranda Airport
+CYVB,Bonaventure Airport
+CYVC,La Ronge Airport
+CYVG,Vermilion Airport
+CYVK,Vernon Regional Airport
+CYVL,Tommy Kochon Airport
+CYVM,Qikiqtarjuaq Airport
+CYVO,Val-d'Or Airport
+CYVP,Kuujjuaq Airport
+CYVQ,Norman Wells Airport
+CYVR,Vancouver International Airport
+CYVT,Buffalo Narrows Airport
+CYVV,Wiarton Airport
+CYVZ,Deer Lake Airport
+CYWA,Petawawa Airport
+CYWE,Wekweètì Airport
+CYWG,Winnipeg / James Armstrong Richardson International Airport
+CYWH,Victoria Harbour Seaplane Base
+CYWJ,Déline Airport
+CYWK,Wabush Airport
+CYWL,Williams Lake Airport
+CYWP,Webequie Airport
+CYWY,Wrigley Airport
+CYXC,Cranbrook/Canadian Rockies International Airport
+CYXE,Saskatoon John G. Diefenbaker International Airport
+CYXH,Medicine Hat Regional Airport
+CYXJ,Fort St John / North Peace Regional Airport
+CYXK,Rimouski Airport
+CYXL,Sioux Lookout Airport
+CYXN,Whale Cove Airport
+CYXP,Pangnirtung Airport
+CYXQ,Beaver Creek Airport
+CYXR,Earlton (Timiskaming Regional) Airport
+CYXS,Prince George Airport
+CYXT,Northwest Regional Airport Terrace-Kitimat
+CYXU,London Airport
+CYXX,Abbotsford International Airport
+CYXY,Whitehorse / Erik Nielsen International Airport
+CYXZ,Wawa Airport
+CYYB,North Bay Jack Garland Airport
+CYYC,Calgary International Airport
+CYYD,Smithers Airport
+CYYE,Fort Nelson Airport
+CYYF,Penticton Airport
+CYYG,Charlottetown Airport
+CYYH,Taloyoak Airport
+CYYJ,Victoria International Airport
+CYYL,Lynn Lake Airport
+CYYM,Cowley Airport
+CYYN,Swift Current Airport
+CYYQ,Churchill Airport
+CYYR,Goose Bay Airport
+CYYT,St. John's International Airport
+CYYU,Kapuskasing Airport
+CYYW,Armstrong Airport
+CYYY,Mont Joli Airport
+CYYZ,Toronto Lester B. Pearson International Airport
+CYZE,Gore Bay Manitoulin Airport
+CYZF,Yellowknife International Airport
+CYZG,Salluit Airport
+CYZH,Slave Lake Airport
+CYZP,Sandspit Airport
+CYZR,Chris Hadfield Airport
+CYZS,Coral Harbour Airport
+CYZT,Port Hardy Airport
+CYZU,Whitecourt Airport
+CYZV,Sept-Îles Airport
+CYZW,Teslin Airport
+CYZX,CFB Greenwood
+CZAC,York Landing Airport
+CZAM,Shuswap Regional Airport
+CZBB,Boundary Bay Airport
+CZBD,Ilford Airport
+CZBF,Bathurst Airport
+CZBM,Bromont (Roland Désourdy) Airport
+CZEE,Kelsey Airport
+CZEM,Eastmain River Airport
+CZFA,Faro Airport
+CZFD,Fond-du-Lac Airport
+CZFG,Pukatawagan Airport
+CZFM,Fort Mcpherson Airport
+CZFN,Tulita Airport
+CZGF,Grand Forks Airport
+CZGI,Gods River Airport
+CZGR,Little Grand Rapids Airport
+CZHP,High Prairie Airport
+CZJG,Jenpeg Airport
+CZJN,Swan River Airport
+CZKE,Kashechewan Airport
+CZLQ,Thicket Portage Airport
+CZMD,Muskrat Dam Airport
+CZML,South Cariboo Region / 108 Mile Airport
+CZMN,Pikwitonei Airport
+CZMT,Masset Airport
+CZNG,Poplar River Airport
+CZPB,Sachigo Lake Airport
+CZPC,Pincher Creek Airport
+CZPO,Pinehouse Lake Airport
+CZRJ,Round Lake (Weagamow Lake) Airport
+CZSJ,Sandy Lake Airport
+CZSN,South Indian Lake Airport
+CZST,Stewart Airport
+CZSW,Prince Rupert/Seal Cove Seaplane Base
+CZTA,Bloodvein River Airport
+CZTM,Shamattawa Airport
+CZUC,Ignace Municipal Airport
+CZUM,Churchill Falls Airport
+CZWH,Lac Brochet Airport
+CZWL,Wollaston Lake Airport
+DAAD,Bou Saada Airport
+DAAE,Soummam–Abane Ramdane Airport
+DAAG,Houari Boumediene Airport
+DAAJ,Djanet Inedbirene Airport
+DAAP,Illizi Takhamalt Airport
+DAAS,Ain Arnat Airport
+DAAT,Aguenar – Hadj Bey Akhamok Airport
+DAAV,Jijel Ferhat Abbas Airport
+DAAY,Mecheria Airport
+DABB,Annaba Rabah Bitat Airport
+DABC,Mohamed Boudiaf International Airport
+DABS,Cheikh Larbi Tébessi Airport
+DABT,Batna Mostefa Ben Boulaid Airport
+DAFH,Hassi R'Mel Airport
+DAOB,Abdelhafid Boussouf Bou Chekif Airport
+DAOF,Tindouf Airport
+DAOI,Chlef Aboubakr Belkaid International Airport
+DAOL,Oran Tafraoui Airport
+DAON,Zenata – Messali El Hadj Airport
+DAOO,Oran Es-Sénia (Ahmed Ben Bella) International Airport
+DAOR,Béchar Boudghene Ben Ali Lotfi Airport
+DAOS,Sidi Bel Abbes Airport
+DAOV,Ghriss Airport
+DAOY,El Bayadh Airport
+DATG,In Guezzam Airport
+DATM,Bordj Badji Mokhtar Airport
+DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport
+DAUB,Biskra - Mohamed Khider Airport
+DAUE,El Golea Airport
+DAUG,Noumérat - Moufdi Zakaria Airport
+DAUH,Hassi Messaoud-Oued Irara Krim Belkacem Airport
+DAUI,In Salah Airport
+DAUK,Touggourt Sidi Madhi Airport
+DAUL,Laghouat - Molay Ahmed Medeghri Airport
+DAUO,Guemar Airport - مطار قمار بالوادي
+DAUT,Timimoun Airport
+DAUU,Ain Beida Airport
+DAUZ,Zarzaitine - In Aménas Airport
+DBBB,Cadjehoun Airport
+DBBD,Djougou Airport
+DBBK,Kandi Airport
+DBBN,Natitingou Airport
+DBBP,Parakou Airport
+DBBS,Savé Airport
+DFCA,Kaya Airport
+DFCC,Ouahigouya Airport
+DFCJ,Djibo Airport
+DFCL,Leo Airport
+DFCP,Po Airport
+DFEA,Boulsa Airport
+DFEB,Bogande Airport
+DFED,Diapaga Airport
+DFEE,Dori Airport
+DFEF,Fada N'gourma Airport
+DFEG,Gorom-Gorom Airport
+DFEL,Kantchari Airport
+DFEM,Tambao Airport
+DFEP,Pama Airport
+DFER,Arly Airport
+DFES,Sebba Airport
+DFET,Tenkodogo Airport
+DFEZ,Zabré Airport
+DFFD,Ouagadougou Airport
+DFOB,Banfora Airport
+DFOD,Dedougou Airport
+DFOG,Gaoua Airport
+DFON,Nouna Airport
+DFOO,Bobo Dioulasso Airport
+DFOT,Tougan Airport
+DFOU,Diebougou Airport
+DFOY,Aribinda Airport
+DGAA,Kotoka International Airport
+DGLE,Tamale Airport
+DGLW,Wa Airport
+DGSI,Kumasi Airport
+DGSN,Sunyani Airport
+DGTK,Takoradi Airport
+DIAO,Aboisso Airport
+DIAP,Félix-Houphouët-Boigny International Airport
+DIAU,Abengourou Airport
+DIBI,Boundiali Airport
+DIBK,Bouaké Airport
+DIBN,Bouna Airport
+DIBU,Soko Airport
+DIDK,Dimbokro Airport
+DIDL,Daloa Airport
+DIGA,Gagnoa Airport
+DIGL,Guiglo Airport
+DIGN,Nero-Mer Airport
+DIKO,Korhogo Airport
+DIMN,Man Airport
+DIOD,Odienne Airport
+DIOF,Ouango Fitini Airport
+DISG,Séguéla Airport
+DISP,San Pedro Airport
+DISS,Sassandra Airport
+DITB,Tabou Airport
+DITM,Mahana Airport
+DIYO,Yamoussoukro Airport
+DMDM,Muhammadu Buhari International Cargo Airport
+DNAA,Nnamdi Azikiwe International Airport
+DNAI,Akwa Ibom International Airport
+DNAK,Akure Airport
+DNAS,Asaba International Airport
+DNBE,Benin Airport
+DNCA,Margaret Ekpo International Airport
+DNEN,Akanu Ibiam International Airport
+DNGO,Gombe Lawanti International Airport
+DNIB,Ibadan Airport
+DNIL,Ilorin International Airport
+DNIM,Sam Mbakwe International Airport
+DNJO,Yakubu Gowon Airport
+DNKA,Kaduna Airport
+DNKN,Mallam Aminu International Airport
+DNMA,Maiduguri International Airport
+DNMK,Makurdi Airport
+DNMM,Murtala Muhammed International Airport
+DNMN,Minna Airport
+DNPO,Port Harcourt International Airport
+DNSO,Sadiq Abubakar III International Airport
+DNSU,Warri Airport
+DNYO,Yola Airport
+DNZA,Zaria Airport
+DRRM,Maradi Airport
+DRRN,Diori Hamani International Airport
+DRRT,Tahoua Airport
+DRZA,Mano Dayak International Airport
+DRZL,Arlit Airport
+DRZR,Zinder Airport
+DTKA,Tabarka-Aïn Draham International Airport
+DTMB,Monastir Habib Bourguiba International Airport
+DTNH,Enfidha - Hammamet International Airport
+DTTA,Tunis Carthage International Airport
+DTTF,Gafsa Ksar International Airport
+DTTG,Gabès Matmata International Airport
+DTTJ,Djerba Zarzis International Airport
+DTTR,El Borma Airport
+DTTX,Sfax Thyna International Airport
+DTTZ,Tozeur Nefta International Airport
+DXNG,Niamtougou International Airport
+DXXX,Lomé–Tokoin International Airport
+EBAW,Antwerp International Airport (Deurne)
+EBBR,Brussels Airport
+EBCI,Brussels South Charleroi Airport
+EBKT,Flanders International Airport Kortrijk-Wevelgem
+EBLG,Liège Airport
+EBOS,Oostende-Brugge International Airport
+EBZR,Oostmalle Airfield
+EDAC,Leipzig–Altenburg Airport
+EDAH,Heringsdorf Airport
+EDAQ,Halle-Oppin Airfield
+EDAU,Riesa-Göhlis Airport
+EDAX,Müritz Airpark
+EDAY,Strausberg Airfield
+EDBC,Cochstedt Airport
+EDBH,Stralsund-Barth Airport
+EDBN,Neubrandenburg Trollenhagen Airport
+EDCG,Rügen Airport
+EDCK,Köthen Airport
+EDCP,Peenemünde Airport
+EDDB,Berlin Brandenburg Airport
+EDDC,Dresden Airport
+EDDE,Erfurt-Weimar Airport
+EDDF,Frankfurt Airport
+EDDG,Münster Osnabrück Airport
+EDDH,Hamburg Helmut Schmidt Airport
+EDDK,Cologne Bonn Airport
+EDDL,Düsseldorf Airport
+EDDM,Munich Airport
+EDDN,Nuremberg Airport
+EDDP,Leipzig/Halle Airport
+EDDR,Saarbrücken Airport
+EDDS,Stuttgart Airport
+EDDV,Hannover Airport
+EDDW,Bremen Airport
+EDFH,Frankfurt-Hahn Airport
+EDFM,Mannheim-City Airport
+EDGE,Eisenach-Kindel Airport
+EDGS,Siegerland Airport
+EDHB,Grube Airfield
+EDHE,Uetersen-Heist Airfield
+EDHI,Hamburg-Finkenwerder Airport
+EDHK,Kiel-Holtenau Airport
+EDHL,Lübeck Blankensee Airport
+EDHN,Neumünster Airport
+EDJA,Memmingen Allgau Airport
+EDKA,Aachen-Merzbrück Airport
+EDLD,Dinslaken-Schwarze Heide Airfield
+EDLE,Essen-Mülheim Airport
+EDLI,Bielefeld Airport
+EDLN,Mönchengladbach Airport
+EDLP,Paderborn Lippstadt Airport
+EDLV,Weeze Airport
+EDLW,Dortmund Airport
+EDMA,Augsburg Airport
+EDMO,Oberpfaffenhofen Airport
+EDMS,Straubing Airport
+EDNY,Friedrichshafen Airport
+EDQD,Bayreuth Airport
+EDQE,Burg Feuerstein Airport
+EDQG,Giebelstadt Airport
+EDQM,Hof-Plauen Airport
+EDRB,Bitburg Airport
+EDRZ,Zweibrücken Airport
+EDSB,Karlsruhe Baden-Baden Airport
+EDTL,Lahr Airport
+EDVE,Braunschweig-Wolfsburg Airport
+EDVK,Kassel Airport
+EDWE,Emden Airport
+EDWG,Wangerooge Airport
+EDWI,JadeWeser Airport
+EDWJ,Juist Airport
+EDWL,Langeoog Airport
+EDWR,Borkum Airport
+EDWS,Norden-Norddeich Airport
+EDWU,Varrelbusch Airfield
+EDWY,Norderney Airport
+EDWZ,Baltrum Airport
+EDXB,Heide-Büsum Airport
+EDXF,Flensburg-Schäferhaus Airport
+EDXH,Helgoland-Düne Airport
+EDXJ,Husum-Schwesing Airport
+EDXO,Sankt Peter-Ording Airport
+EDXW,Westerland Sylt Airport
+EDXY,Wyk auf Föhr Airport
+EERE,Rakvere Airfield
+EEAA,Antsla Airfield
+EECL,Tallinn Linnahall Heliport
+EEEI,Ämari Air Base
+EEHA,Humala Airfield
+EEJI,Jõhvi Airfield
+EEKA,Kärdla Airport
+EEKE,Kuressaare Airport
+EEKI,Karksi Airfield
+EELM,Lange Airfield (Lennundusmuuseum)
+EELU,Lyckholm Airstrip
+EENA,Narva Airfield
+EEPU,Pärnu Airport
+EERD,Riidaja Airfield
+EERI,Ridali Airfield
+EERU,Ruhnu Airfield
+EESE,Salme Heliport
+EETN,Lennart Meri Tallinn Airport
+EETU,Tartu Airport
+EEVI,Viljandi Airfield
+EEVO,Vormsi Airfield
+EEVP,Vihterpalu Manor Heliport
+EEVU,Varstu Airfield
+EFET,Enontekio Airport
+EFHA,Halli Airport
+EFHK,Helsinki Vantaa Airport
+EFHV,Hyvinkää Airfield
+EFIT,Kitee Airport
+EFIV,Ivalo Airport
+EFJO,Joensuu Airport
+EFJY,Jyväskylä Airport
+EFKA,Kauhava Airfield
+EFKE,Kemi-Tornio Airport
+EFKI,Kajaani Airport
+EFKJ,Kauhajoki Airfield
+EFKK,Kokkola-Pietarsaari Airport
+EFKS,Kuusamo Airport
+EFKT,Kittilä Airport
+EFKU,Kuopio Airport
+EFLP,Lappeenranta Airport
+EFMA,Mariehamn Airport
+EFMI,Mikkeli Airport
+EFOU,Oulu Airport
+EFPO,Pori Airport
+EFRO,Rovaniemi Airport
+EFSA,Savonlinna Airport
+EFSI,Seinäjoki Airport
+EFSO,Sodankyla Airport
+EFTP,Tampere-Pirkkala Airport
+EFTU,Turku Airport
+EFUT,Utti Air Base
+EFVA,Vaasa Airport
+EFVR,Varkaus Airport
+EFYL,Ylivieska Airfield
+EGAA,Belfast International Airport
+EGAB,Enniskillen/St Angelo Airport
+EGAC,George Best Belfast City Airport
+EGAE,City of Derry Airport
+EGBB,Birmingham Airport
+EGBE,Coventry Airport
+EGBJ,Gloucestershire Airport
+EGBK,Sywell Aerodrome
+EGBN,Nottingham Airport
+EGBP,Cotswold Airport
+EGCC,Manchester Airport
+EGDJ,Upavon Aerodrome
+EGDY,RNAS Yeovilton
+EGEC,Campbeltown Airport
+EGED,Eday Airport
+EGEF,Fair Isle Airport
+EGEH,Whalsay Airstrip
+EGEI,Broadford Airstrip
+EGEN,North Ronaldsay Airport
+EGEO,Oban Airport
+EGEP,Papa Westray Airport
+EGER,Stronsay Airport
+EGES,Sanday Airport
+EGET,Lerwick / Tingwall Airport
+EGEW,Westray Airport
+EGFE,Haverfordwest Airport
+EGFF,Cardiff International Airport
+EGFH,Swansea Airport
+EGGD,Bristol Airport
+EGGP,Liverpool John Lennon Airport
+EGGW,London Luton Airport
+EGHC,Land's End Airport
+EGHE,St. Mary's Airport
+EGHH,Bournemouth Airport
+EGHI,Southampton Airport
+EGHJ,Bembridge Airport
+EGHL,Lasham Airfield
+EGHQ,Cornwall Airport Newquay
+EGHR,Goodwood Aerodrome
+EGJA,Alderney Airport
+EGJB,Guernsey Airport
+EGJJ,Jersey Airport
+EGKA,Brighton City Airport
+EGKB,London Biggin Hill Airport
+EGKK,London Gatwick Airport
+EGKR,Redhill Aerodrome
+EGLC,London City Airport
+EGLF,Farnborough Airport
+EGLK,Blackbushe Airport
+EGLL,London Heathrow Airport
+EGMC,London Southend Airport
+EGMD,Lydd London Ashford Airport
+EGNC,Carlisle Lake District Airport
+EGNH,Blackpool International Airport
+EGNJ,Humberside Airport
+EGNL,Barrow Walney Island Airport
+EGNM,Leeds Bradford Airport
+EGNO,Warton Aerodrome
+EGNR,Hawarden Airport
+EGNS,Isle of Man Airport
+EGNT,Newcastle International Airport
+EGNV,Teesside International Airport
+EGNX,East Midlands Airport
+EGOV,Anglesey Airport
+EGPA,Kirkwall Airport
+EGPB,Sumburgh Airport
+EGPC,Wick Airport
+EGPD,Aberdeen Dyce Airport
+EGPE,Inverness Airport
+EGPF,Glasgow International Airport
+EGPH,Edinburgh Airport
+EGPI,Islay Airport
+EGPK,Glasgow Prestwick Airport
+EGPL,Benbecula Airport
+EGPN,Dundee Airport
+EGPO,Stornoway Airport
+EGPR,Barra Airport
+EGPT,Perth/Scone Airport
+EGPU,Tiree Airport
+EGPW,Unst Airport
+EGQL,Leuchars Station Airfield
+EGQS,RAF Lossiemouth
+EGSC,Cambridge City Airport
+EGSH,Norwich Airport
+EGSS,London Stansted Airport
+EGSU,Duxford Aerodrome
+EGTB,Wycombe Air Park
+EGTE,Exeter International Airport
+EGTK,Oxford (Kidlington) Airport
+EGTO,Rochester Airport
+EGUB,RAF Benson
+EGUL,RAF Lakenheath
+EGUN,RAF Mildenhall
+EGVA,RAF Fairford
+EGVN,RAF Brize Norton
+EGVO,RAF Odiham
+EGWU,RAF Northolt
+EGXC,RAF Coningsby
+EGXH,RAF Honington
+EGXW,RAF Waddington
+EGYM,RAF Marham
+EGYP,Mount Pleasant Airport
+EHAM,Amsterdam Airport Schiphol
+EHBK,Maastricht Aachen Airport
+EHEH,Eindhoven Airport
+EHGG,Groningen Airport Eelde
+EHGR,Gilze Rijen Air Base
+EHKD,De Kooy Airfield / Den Helder Naval Air Station
+EHLE,Lelystad Airport
+EHLW,Leeuwarden Air Base
+EHRD,Rotterdam The Hague Airport
+EHSE,Breda International Airport
+EHTE,Teuge Airport
+EHTS,Terschelling Heliport
+EHTW,Twente Airport
+EHVK,Volkel Air Base
+EHWO,Woensdrecht Air Base
+EIBN,Bantry Aerodrome
+EIBT,Belmullet Aerodrome
+EICA,Connemara Regional Airport
+EICK,Cork Airport
+EICM,Galway Airport
+EIDL,Donegal Airport
+EIDW,Dublin Airport
+EIIM,Inishmore Aerodrome
+EIIR,Inisheer Aerodrome
+EIKK,Kilkenny Airport
+EIKN,Ireland West Knock Airport
+EIKY,Kerry Airport
+EILT,Letterkenny Airfield
+EIMN,Inishmaan Aerodrome
+EINN,Shannon Airport
+EISG,Sligo Airport
+EIWF,Waterford Airport
+EKAH,Aarhus Airport
+EKBI,Billund Airport
+EKCH,Copenhagen Kastrup Airport
+EKEB,Esbjerg Airport
+EKKA,Midtjyllands Airport / Air Base Karup
+EKLS,Læsø Airport
+EKMB,Lolland Falster Maribo Airport
+EKOD,Odense Hans Christian Andersen Airport
+EKRK,Copenhagen Roskilde Airport
+EKRN,Bornholm Airport
+EKSB,Sønderborg Airport
+EKSN,Sindal Airport
+EKSP,Skrydstrup Air Base
+EKSV,Skive Airport
+EKTS,Thisted Airport
+EKVG,Vágar Airport
+EKVJ,Stauning Vestjylland  Airport
+EKYT,Aalborg Airport
+ELLX,Luxembourg-Findel International Airport
+ENAL,"Ålesund Airport, Vigra"
+ENAN,"Andøya Airport, Andenes"
+ENAT,Alta Airport
+ENBL,"Førde Airport, Bringeland"
+ENBN,"Brønnøysund Airport, Brønnøy"
+ENBO,Bodø Airport
+ENBR,"Bergen Airport, Flesland"
+ENBS,Båtsfjord Airport
+ENBV,Berlevåg Airport
+ENCN,"Kristiansand Airport, Kjevik"
+ENDU,Bardufoss Airport
+ENEV,"Harstad/Narvik Airport, Evenes"
+ENFG,"Fagernes Airport, Leirin"
+ENFL,Florø Airport
+ENGM,"Oslo Airport, Gardermoen"
+ENHA,"Hamar Lufthavn, Stavsberg"
+ENHD,"Haugesund Airport, Karmøy"
+ENHF,Hammerfest Airport
+ENHK,Hasvik Airport
+ENHV,"Honningsvåg Airport, Valan"
+ENKB,"Kristiansund Airport, Kvernberget"
+ENKL,Gol Airport
+ENKR,"Kirkenes Airport, Høybuktmoen"
+ENLK,Leknes Airport
+ENMH,Mehamn Airport
+ENML,"Molde Airport, Årø"
+ENMS,"Mosjøen Airport, Kjærstad"
+ENNA,"Lakselv Airport, Banak"
+ENNM,Namsos Airport
+ENNO,Notodden Airport
+ENOL,Ørland Airport
+ENOV,"Ørsta-Volda Airport, Hovden"
+ENRA,"Mo i Rana Airport, Røssvoll"
+ENRM,"Rørvik Airport, Ryum"
+ENRO,Røros Airport
+ENRS,Røst Airport
+ENRY,"Moss Airport, Rygge"
+ENSB,"Svalbard Airport, Longyear"
+ENSD,"Sandane Airport, Anda"
+ENSG,"Sogndal Airport, Haukåsen"
+ENSH,"Svolvær Airport, Helle"
+ENSK,"Stokmarknes Airport, Skagen"
+ENSN,Skien Airport
+ENSO,"Stord Airport, Sørstokken"
+ENSR,Sørkjosen Airport
+ENSS,"Vardø Airport, Svartnes"
+ENST,"Sandnessjøen Airport, Stokka"
+ENTC,"Tromsø Airport, Langnes"
+ENTO,"Sandefjord Airport, Torp"
+ENVA,"Trondheim Airport, Værnes"
+ENVD,Vadsø Airport
+ENZV,"Stavanger Airport, Sola"
+EPBY,Bydgoszcz Ignacy Jan Paderewski Airport
+EPGD,Gdańsk Lech Wałęsa Airport
+EPKK,Kraków John Paul II International Airport
+EPKT,Katowice Wojciech Korfanty International Airport
+EPLB,Lublin Airport
+EPLL,Łódź Władysław Reymont Airport
+EPMO,Modlin Airport
+EPPO,Poznań-Ławica Airport
+EPRA,Warsaw Radom Airport
+EPRU,Częstochowa-Rudniki Airport
+EPRZ,Rzeszów-Jasionka Airport
+EPSC,Solidarity Szczecin–Goleniów Airport
+EPSK,Słupsk-Krȩpa Airfield
+EPSY,Olsztyn-Mazury Airport
+EPWA,Warsaw Chopin Airport
+EPWR,Copernicus Wrocław Airport
+EPZG,Zielona Góra-Babimost Airport
+LELI,El Molinillo Airfield
+LEGP,El Rinconcillo de Guadalupe
+ESDF,Ronneby Airport
+ESGG,Göteborg Landvetter Airport
+ESGJ,Jönköping Airport
+ESGL,Lidköping-Hovby Airport
+ESGP,Säve Airport
+ESGR,Skövde Airport
+ESGT,Trollhättan-Vänersborg Airport
+ESKK,Karlskoga Airport
+ESKM,Mora Airport
+ESKN,Stockholm Skavsta Airport
+ESMK,Kristianstad Airport
+ESMO,Oskarshamn Airport
+ESMQ,Kalmar Airport
+ESMS,Malmö Sturup Airport
+ESMT,Halmstad Airport
+ESMX,Växjö Kronoberg Airport
+ESND,Sveg Airport
+ESNG,Gällivare Airport
+ESNK,Kramfors-Sollefteå Höga Kusten Airport
+ESNL,Lycksele Airport
+ESNN,Sundsvall-Härnösand Airport
+ESNO,Örnsköldsvik Airport
+ESNQ,Kiruna Airport
+ESNS,Skellefteå Airport
+ESNU,Umeå Airport
+ESNV,Vilhelmina South Lapland Airport
+ESNX,Arvidsjaur Airport
+ESNY,Söderhamn Airport
+ESNZ,Åre Östersund Airport
+ESOE,Örebro Airport
+ESOH,Hagfors Airport
+ESOK,Karlstad Airport
+ESOW,Stockholm Västerås Airport
+ESPA,Luleå Airport
+ESSA,Stockholm-Arlanda Airport
+ESSB,Stockholm-Bromma Airport
+ESSD,Dala Airport
+ESSF,Hultsfred Airport
+ESSK,Gävle Sandviken Airport
+ESSL,Linköping City Airport
+ESSP,Norrköping Airport
+ESST,Torsby Airport
+ESSU,Eskilstuna Airport
+ESSV,Visby Airport
+ESSW,Västervik Airport
+ESTA,Ängelholm-Helsingborg Airport
+ESUD,Storuman Airport
+ESUE,Idre Airport
+ESUP,Pajala Airport
+ESUT,Hemavan Airport
+ETAD,Spangdahlem Air Base
+ETAR,Ramstein Air Base
+ETHF,Fritzlar Army Airfield
+ETIK,Illesheim Army Heliport
+ETMN,Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase
+ETNG,Geilenkirchen Air Base
+ETNL,Rostock-Laage Airport
+ETNS,Schleswig Air Base
+ETOU,Wiesbaden Army Airfield
+ETSI,Ingolstadt Manching Airport
+EVLA,Liepāja International Airport
+EVRA,Riga International Airport
+EVVA,Ventspils International Airport
+EYKA,Kaunas International Airport
+EYPA,Palanga International Airport
+EYPP,Panevėžys Air Base
+EYSA,Šiauliai International Airport
+EYVI,Vilnius International Airport
+FAAB,Alexander Bay Airport
+FAAG,Aggeneys Airport
+FAAL,Alldays Airport
+FABE,Bisho Airport
+FABL,Bram Fischer International Airport
+FACD,Cradock Airport
+FACT,Cape Town International Airport
+FADK,Mubatuba Airport
+FADQ,Zulu Inyala Airport
+FAEL,King Phalo Airport
+FAEM,Empangeni Airport
+FAER,Ellisras Matimba Airport
+FAFB,Ficksburg Sentraoes Airport
+FAGC,Grand Central Airport
+FAGG,George Airport
+FAGI,Giyani Airport
+FAGM,Rand Airport
+FAHL,Hluhluwe Airport
+FAHR,Harrismith Airport
+FAHS,Hoedspruit Air Force Base Airport
+FAKD,P C Pelser Airport
+FAKM,Kimberley Airport
+FAKN,Kruger Mpumalanga International Airport
+FAKP,Komatipoort Airport
+FAKU,Johan Pienaar Airport
+FAKZ,Kleinsee Airport
+FALA,Lanseria International Airport
+FALC,Lime Acres Finsch Mine Airport
+FALD,Londolozi Airport
+FALE,King Shaka International Airport
+FALO,Louis Trichardt Airport
+FALW,Langebaanweg Airport
+FALY,Ladysmith Airport
+FAMD,Malamala Airport
+FAMG,Margate Airport
+FAMM,Mmabatho International Airport
+FAMN,Malelane Airport
+FAMO,Mossel Bay Airport
+FAMS,Morningside Farm Airport
+FAMU,Mkuze Airport
+FANC,Newcastle Airport
+FANG,Ngala Airport
+FANS,Nelspruit Airport
+FAOB,Overberg Airport
+FAOH,Oudtshoorn Airport
+FAOR,O.R. Tambo International Airport
+FAPA,Port Alfred Airport
+FAPE,Chief Dawid Stuurman International Airport
+FAPG,Plettenberg Bay Airport
+FAPH,Hendrik Van Eck Airport
+FAPJ,Port St Johns Airport
+FAPK,Prieska Airport
+FAPM,Pietermaritzburg Airport
+FAPN,Pilanesberg International Airport
+FAPP,Polokwane International Airport
+FAPS,Potchefstroom Airport
+FAQT,Queenstown Airport
+FARB,Richards Bay Airport
+FARI,Reivilo Airport
+FARS,Robertson Airport
+FASB,Springbok Airport
+FASC,Secunda Airport
+FASS,Sishen Airport
+FASZ,Skukuza Airport
+FATH,Thohoyandou Airport
+FATN,Thaba Nchu Tar Airport
+FATZ,Tzaneen Airport
+FAUL,Prince Mangosuthu Buthelezi Airport
+FAUP,Pierre Van Ryneveld Airport
+FAUS,Ulusaba Airport
+FAUT,K. D. Matanzima Airport
+FAVB,Vryburg Airport
+FAVG,Virginia Airport
+FAVR,Vredendal Airport
+FAVY,Vryheid Airport
+FAWB,Wonderboom Airport
+FAWK,Waterkloof Air Force Base
+FAWM,Welkom Airport
+FBGZ,Ghanzi Airport
+FBJW,Jwaneng Airport
+FBKE,Kasane Airport
+FBKR,Khwai River Lodge Airport
+FBLO,Lobatse Airport
+FBMN,Maun Airport
+FBOR,Orapa Airport
+FBSK,Sir Seretse Khama International Airport
+FBSN,Sua Pan Airport
+FBSP,Selebi Phikwe Airport
+FBSV,Savuti Airport
+FBSW,Shakawe Airport
+FBTL,Tuli Lodge Airport
+FBTS,Tshabong Airport
+FCBB,Maya-Maya Airport
+FCBD,Djambala Airport
+FCBK,Kindamba Airport
+FCBL,Lague Airport
+FCBM,Mouyondzi Airport
+FCBS,Sibiti Airport
+FCBY,Yokangassi Airport
+FCBZ,Zanaga Airport
+FCMM,Mossendjo Airport
+FCOB,Boundji Airport
+FCOE,Ewo Airport
+FCOG,Gamboma Airport
+FCOI,Impfondo Airport
+FCOK,Kelle Airport
+FCOM,Makoua Airport
+FCOO,Owando Airport
+FCOS,Souanke Airport
+FCOT,Betou Airport
+FCOU,Ouesso Airport
+FCPA,Makabana Airport
+FCPD,Ngot Nzoungou Airport
+FCPP,Antonio Agostinho-Neto International Airport
+FDMS,Matsapha Airport
+FDSK,King Mswati III International Airport
+FEFC,Carnot Airport
+FEFF,Bangui M'Poko International Airport
+FEFG,Bangassou Airport
+FEFI,Birao Airport
+FEFM,Bambari Airport
+FEFN,N'Délé Airport
+FEFO,Bouar Airport
+FEFR,Bria Airport
+FEFS,Bossangoa Airport
+FEFT,Berbérati Airport
+FEFW,Ouadda Airport
+FEFY,Yalinga Airport
+FEFZ,Zemio Airport
+FEGE,M'Boki Airport
+FEGF,Batangafo Airport
+FEGM,Bakouma Airport
+FEGO,Ouanda Djallé Airport
+FEGR,Rafaï Airport
+FEGU,Bouca Airport
+FEGZ,Bozoum Airport
+FGBT,Bata Airport
+FGMY,President Obiang Nguema International Airport
+FGSL,Malabo Airport
+FHAW,RAF Ascension Island
+FHSH,Saint Helena Airport
+FIMP,Sir Seewoosagur Ramgoolam International Airport
+FIMR,Sir Charles Gaetan Duval Airport
+FKKB,Kribi Airport
+FKKC,Tiko Airport
+FKKD,Douala International Airport
+FKKF,Mamfe Airport
+FKKG,Bali Airport
+FKKH,Kaélé Airport
+FKKI,Batouri Airport
+FKKJ,Yagoua Airport
+FKKL,Salak Airport
+FKKM,Foumban Nkounja Airport
+FKKN,N'Gaoundéré Airport
+FKKO,Bertoua Airport
+FKKR,Garoua International Airport
+FKKS,Dschang Airport
+FKKU,Bafoussam Airport
+FKKV,Bamenda Airport
+FKKW,Ebolowa Airport
+FKKY,Yaoundé Airport
+FKYS,Yaoundé Nsimalen International Airport
+FLBA,Mbala Airport
+FLCP,Chipata Airport
+FLKL,Kalabo Airport
+FLKO,Kaoma Airport
+FLKS,Kasama Airport
+FLKY,Kasaba Bay Airport
+FLLK,Lukulu Airport
+FLMA,Mansa Airport
+FLMF,Mfuwe Airport
+FLMG,Mongu Airport
+FLNA,Ngoma Airport
+FLND,Peter Zuze Air Force Base
+FLSN,Senanga Airport
+FLSO,Southdowns Airport
+FLSS,Sesheke Airport
+FLSW,Solwesi Airport
+FLZB,Zambezi Airport
+FMCH,Prince Said Ibrahim International Airport
+FMCI,Mohéli Bandar Es Eslam Airport
+FMCV,Ouani Airport
+FMCZ,Dzaoudzi Pamandzi International Airport
+FMEE,Roland Garros Airport
+FMEP,Pierrefonds Airport
+FMFE,Ambohibary Airport
+FMMC,Malaimbandy Airport
+FMME,Antsirabe Airport
+FMMG,Antsalova Airport
+FMMH,Mahanoro Airport
+FMMI,Ivato Airport
+FMMK,Ankavandra Airport
+FMML,Belo sur Tsiribihina Airport
+FMMN,Miandrivazo Airport
+FMMO,Maintirano Airport
+FMMQ,Atsinanana Airport
+FMMR,Morafenobe Airport
+FMMS,Sainte Marie Airport
+FMMT,Toamasina Ambalamanasy Airport
+FMMU,Tambohorano Airport
+FMMV,Morondava Airport
+FMMX,Tsiroanomandidy Airport
+FMMY,Vatomandry Airport
+FMMZ,Ambatondrazaka Airport
+FMNA,Arrachart Airport
+FMNC,Mananara Nord Airport
+FMND,Andapa Airport
+FMNE,Ambilobe Airport
+FMNF,Avaratra Airport
+FMNG,Port Bergé Airport
+FMNH,Antsirabe Airport
+FMNL,Analalava Airport
+FMNM,Amborovy Airport
+FMNN,Fascene Airport
+FMNO,Soalala Airport
+FMNP,Mampikony Airport
+FMNQ,Besalampy Airport
+FMNR,Maroantsetra Airport
+FMNS,Sambava Airport
+FMNT,Tsaratanana Airport
+FMNV,Vohemar Airport
+FMNW,Ambalabe Airport
+FMNX,Mandritsara Airport
+FMSB,Antsoa Airport
+FMSC,Mandabe Airport
+FMSD,Tôlanaro Airport
+FMSF,Fianarantsoa Airport
+FMSG,Farafangana Airport
+FMSI,Ihosy Airport
+FMSJ,Manja Airport
+FMSK,Manakara Airport
+FMSL,Bekily Airport
+FMSM,Mananjary Airport
+FMSN,Samangoky Airport
+FMSR,Morombe Airport
+FMST,Toliara Airport
+FMSU,Vangaindrano Airport
+FMSV,Betioky Airport
+FMSY,Ampanihy Airport
+FMSZ,Ankazoabo Airport
+FNAM,Ambriz Airport
+FNBC,Mbanza Congo Airport
+FNBG,Benguela 17th of September Airport
+FNBJ,Dr. Antonio Agostinho Neto International Airport
+FNCA,Cabinda Airport
+FNCF,Cafunfo Airport
+FNCH,Chitato Airport
+FNCP,Capanda Airport
+FNCT,Catumbela Airport
+FNCV,Cuito Cuanavale Airport
+FNCZ,Cazombo Airport
+FNDU,Dundo Airport
+FNGI,Ngjiva Pereira Airport
+FNHU,Nova Lisboa Airport
+FNKU,Kuito Airport
+FNLB,Lobito Airport
+FNLK,Lucapa Airport
+FNLU,Quatro de Fevereiro International Airport
+FNLZ,Luzamba Airport
+FNMA,Malanje Airport
+FNME,Menongue Airport
+FNMO,Welwitschia Mirabilis International Airport
+FNNG,Negage Airport
+FNPA,Porto Amboim Airport
+FNSA,Saurimo Airport
+FNSO,Soyo Airport
+FNSU,Sumbe Airport
+FNUA,Luau Airport
+FNUB,Lubango Airport
+FNUE,Luena Airport
+FNUG,Uige Airport
+FNWK,Waco Kungo Airport
+FNXA,Xangongo Airport
+FNZE,N'zeto Airport
+FNZG,Nzagi Airport
+FOGA,Akieni Airport
+FOGB,Booue Airport
+FOGE,Ndende Airport
+FOGF,Fougamou Airport
+FOGG,M'Bigou Airport
+FOGI,Moabi Airport
+FOGJ,Ville Airport
+FOGK,Koulamoutou Mabimbi Airport
+FOGM,Mouilla Ville Airport
+FOGO,Oyem Airport
+FOGQ,Okondja Airport
+FOGR,Lambarene Airport
+FOGV,Minvoul Airport
+FOGW,Alowe Airport
+FOOB,Bitam Airport
+FOOD,Moanda Airport
+FOOE,Mekambo Airport
+FOOG,Port Gentil Airport
+FOOH,Omboue Hospital Airport
+FOOI,Tchongorove Airport
+FOOK,Makokou Airport
+FOOL,Libreville Leon M'ba International Airport
+FOOM,Mitzic Airport
+FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport
+FOOR,Lastourville Airport
+FOOT,Tchibanga Airport
+FOOY,Mayumba Airport
+FPPR,Principe Airport
+FPST,São Tomé International Airport
+FQAG,Angoche Airport
+FQBR,Beira Airport
+FQCB,Cuamba Airport
+FQCH,Chimoio Airport
+FQIA,Inhaca Airport
+FQIB,Ibo Airport
+FQIN,Inhambane Airport
+FQLC,Lichinga Airport
+FQLU,Lumbo Airport
+FQMA,Maputo Airport
+FQMD,Mueda Airport
+FQMP,Mocímboa da Praia Airport
+FQNC,Nacala Airport
+FQNP,Nampula Airport
+FQPB,Pemba Airport
+FQPO,Ponta do Ouro Airport
+FQQL,Quelimane Airport
+FQTT,Chingozi Airport
+FQVL,Vilankulo Airport
+FQXA,Xai-Xai Chongoene Airport
+FSDR,Desroches Airport
+FSIA,Seychelles International Airport
+FSPP,Praslin Island Airport
+FSSB,Bird Island Airport
+FSSD,Denis Island Airport
+FSSF,Frégate Island Airport (UNUSABLE)
+FTTA,Sarh Airport
+FTTB,Bongor Airport
+FTTC,Abeche Airport
+FTTD,Moundou Airport
+FTTH,Lai Airport
+FTTI,Ati Airport
+FTTJ,N'Djamena International Airport
+FTTK,Bokoro Airport
+FTTL,Bol-Berim Airport
+FTTM,Mongo Airport
+FTTN,Am Timan Airport
+FTTP,Pala Airport
+FTTS,Bousso Airport
+FTTU,Mao Airport
+FTTY,Faya-Largeau Airport
+FVCH,Chipinge Airport
+FVCZ,Buffalo Range Airport
+FVFA,Victoria Falls International Airport
+FVKB,Kariba International Airport
+FVMH,Mahenye Airport
+FVMU,Mutare Airport
+FVMV,Masvingo International Airport
+FVTD,Tinfields Airport
+FVTL,Gweru - Thornhill Air Base
+FVWN,Hwange National Park Airport
+FVWT,Hwange (Town) Airport
+FWCD,Chelinda Malawi Airport
+FWCL,Chileka International Airport
+FWCM,Club Makokola Airport
+FWDW,Dwangwa Airport
+FWKA,Karonga Airport
+FWKG,Kasungu Airport
+FWKI,Kamuzu International Airport
+FWLK,Likoma Island Airport
+FWMY,Monkey Bay Airport
+FWSM,Salima Airport
+FWUU,Mzuzu Airport
+FXLK,Lebakeng Airport
+FXLR,Leribe Airport
+FXLS,Lesobeng Airport
+FXMA,Matsaile Airport
+FXMF,Mafeteng Airport
+FXMK,Mokhotlong Airport
+FXMM,Moshoeshoe I International Airport
+FXNK,Nkaus Airport
+FXPG,Pelaneng Airport
+FXQG,Quthing Airport
+FXQN,Qacha's Nek Airport
+FXSH,Sehonghong Airport
+FXSK,Sekakes Airport
+FXSM,Semonkong Airport
+FXSS,Seshutes Airport
+FXTA,Thaba-Tseka Airport
+FXTK,Tlokoeng Airport
+FYAA,Ai-Ais Airport
+FYAR,Arandis Airport
+FYAS,Aus Airport
+FYGB,Gobabis Airport
+FYGF,Grootfontein Airport
+FYHI,Halali Airport
+FYHV,Hartmann Valley Airstrip
+FYKB,Karasburg Airport
+FYKM,Katima Mulilo Airport
+FYKT,Keetmanshoop Airport
+FYLS,Lianshulu Lodge Airstrip
+FYLZ,Luderitz Airport
+FYME,Mount Etjo Airport
+FYMG,Midgard Airport
+FYMO,Mokuti Lodge Airport
+FYNA,Namutoni Airport
+FYNG,Ongava Lodge Airstrip
+FYOA,Ondangwa Airport
+FYOE,Omega Airport
+FYOG,Oranjemund Airport
+FYOO,Okaukuejo Airport
+FYOP,Opuwa Airport
+FYOS,Oshakati Airport
+FYOW,Otjiwarongo Airport
+FYRU,Rundu Airport
+FYSA,Skorpion Mine Airport
+FYSM,Swakopmund Municipal Aerodrome
+FYSS,Sesriem Airport
+FYTE,Terrace Bay Airport
+FYTF,Twyfelfontein Airport
+FYTM,Tsumeb Airport
+FYUS,Uis Mine Airport
+FYWB,Walvis Bay Airport
+FYWE,Eros Airport
+FYWH,Hosea Kutako International Airport
+FZAA,Ndjili International Airport
+FZAB,Ndolo Airport
+FZAG,Muanda Airport
+FZAJ,Boma Airport
+FZAL,Luozi Airport
+FZAM,Tshimpi Airport
+FZAR,N'Kolo-Fuma Airport
+FZBA,Inongo Airport
+FZBI,Nioki Airport
+FZBO,Bandundu Airport
+FZBT,Kiri Airport
+FZCA,Kikwit Airport
+FZCB,Idiofa Airport
+FZCE,Lusanga Airport
+FZCV,Masi Manimba Airport
+FZEA,Mbandaka Airport
+FZEN,Basankusu Airport
+FZFA,Libenge Airport
+FZFD,Gbadolite Airport
+FZFK,Gemena Airport
+FZFP,Kotakoli Airbase
+FZFU,Bumba Airport
+FZGA,Lisala Airport
+FZGN,Boende Airport
+FZGV,Ikela Airport
+FZIC,Bangoka International Airport
+FZIR,Yangambi Airport
+FZJH,Matari Airport
+FZKA,Bunia Airport
+FZKJ,Buta Zega Airport
+FZMA,Bukavu Kavumu Airport
+FZNA,Goma International Airport
+FZNP,Beni Airport
+FZOA,Kindu Airport
+FZOC,Kamisuku Airport
+FZOK,Kasongo Airport
+FZOP,Punia Airport
+FZQA,Lubumbashi International Airport
+FZQC,Pweto Airport
+FZQG,Kasenga Airport
+FZQM,Kolwezi Airport
+FZRA,Manono Airport
+FZRB,Moba Airport
+FZRF,Kalemie Airport
+FZRM,Kabalo Airport
+FZRQ,Kongolo Airport
+FZSB,Kamina City Airport
+FZSK,Kapanga Airport
+FZTK,Kaniama Airport
+FZUA,Kananga Airport
+FZUG,Luiza Airport
+FZUK,Tshikapa Airport
+FZVA,Lodja Airport
+FZVI,Lusambo Airport
+FZVM,Mweka Airport
+FZVR,Basongo Airport
+FZVS,Ilebo Airport
+FZWA,Mbuji Mayi Airport
+FZWT,Tunta Airport
+GABS,Modibo Keita International Airport
+GAGM,Goundam Airport
+GAGO,Gao Airport
+GAKA,Kenieba Airport
+GAKO,Koutiala Airport
+GAKD,Kayes Dag Dag Airport
+GAMB,Mopti Ambodédjo International Airport
+GANK,Nara Airport
+GANR,Nioro du Sahel Airport
+GASK,Sikasso Airport
+GATB,Timbuktu Airport
+GAYE,Yélimané Airport
+GBYD,Banjul International Airport
+GCFV,Fuerteventura Airport
+GCGM,La Gomera Airport
+GCHI,El Hierro Airport
+GCLA,La Palma Airport
+GCLP,Gran Canaria Airport
+GCRR,César Manrique-Lanzarote Airport
+GCTS,Tenerife Sur Airport
+GCXO,Tenerife Norte-Ciudad de La Laguna Airport
+GEML,Melilla Airport
+GFBO,Bo Airport
+GFGK,Gbangbatok Airport
+GFHA,Hastings Airport
+GFKB,Kabala Airport
+GFKE,Kenema Airport
+GFLL,Lungi International Airport
+GFYE,Yengema Airport
+GGBU,Bubaque Airport
+GGOV,Osvaldo Vieira International Airport
+GLBU,Buchanan Airport
+GLCP,Cape Palmas Airport
+GLGE,Greenville/Sinoe Airport
+GLMR,Spriggs Payne Airport
+GLNA,Nimba Airport
+GLRB,Roberts International Airport
+GLST,Sasstown Airport
+GLTN,Tchien Airport
+GLVA,Voinjama Airport
+GMAD,Al Massira Airport
+GMAT,Tan Tan Airport
+GMAZ,Zagora Airport
+GMFB,Bouarfa Airport
+GMFF,Fes Saïss International Airport
+GMFK,Moulay Ali Cherif Airport
+GMFM,Bassatine Airport
+GMFO,Oujda Angads Airport
+GMMA,Smara Airport
+GMMB,Ben Slimane Airport
+GMMD,Beni Mellal Airport
+GMME,Rabat-Salé Airport
+GMMH,Dakhla Airport
+GMMI,Essaouira-Mogador Airport
+GMML,Hassan I Airport
+GMMN,Mohammed V International Airport
+GMMW,Nador Al Aaroui International Airport
+GMMX,Menara Airport
+GMMZ,Ouarzazate Airport
+GMTA,Cherif Al Idrissi Airport
+GMTT,Tangier Ibn Battuta Airport
+GOBD,Blaise Diagne International Airport
+GOGG,Ziguinchor Airport
+GOGS,Cap Skirring Airport
+GOOK,Kaolack Airport
+GOOY,Léopold Sédar Senghor International Airport
+GOSM,Ouro Sogui Airport
+GOSP,Podor Airport
+GOSR,Richard Toll Airport
+GOSS,Saint Louis Airport
+GOTB,Bakel Airport
+GOTK,Kédougou Airport
+GOTS,Simenti Airport
+GOTT,Tambacounda Airport
+GQNA,Aioun el Atrouss Airport
+GQNB,Boutilimit Airport
+GQNC,Tichitt Airport
+GQND,Tidjikja Airport
+GQNE,Abbaye Airport
+GQNF,Kiffa Airport
+GQNH,Timbedra Airport
+GQNI,Néma Airport
+GQNJ,Akjoujt Airport
+GQNK,Kaédi Airport
+GQNL,Letfotar Airport
+GQNO,Nouakchott–Oumtounsy International Airport
+GQNS,Sélibaby Airport
+GQNT,Tamchakett Airport
+GQPA,Atar International Airport
+GQPF,Fderik Airport
+GQPP,Nouadhibou International Airport
+GQPZ,Tazadit Airport
+GUCY,Conakry International Airport
+GUFA,Fria Airport
+GUFH,Faranah Airport
+GUKU,Kissidougou Airport
+GULB,Tata Airport
+GUMA,Macenta Airport
+GUNZ,Nzérékoré Airport
+GUOK,Boké Baralande Airport
+GUSB,Sambailo Airport
+GUSI,Siguiri Airport
+GVAC,Amílcar Cabral International Airport
+GVAN,Agostinho Neto Airport
+GVBA,Rabil Airport
+GVBR,Esperadinha Airport
+GVMA,Maio Airport
+GVMT,Mosteiros Airport
+GVNP,Nelson Mandela International Airport
+GVSF,São Filipe Airport
+GVSN,Preguiça Airport
+GVSV,São Pedro Airport
+HAAB,Addis Ababa Bole International Airport
+HAAM,Arba Minch Airport
+HAAX,Axum Airport
+HABC,Baco Airport
+HABD,Bahir Dar Airport
+HABE,Beica Airport
+HADC,Kombolcha Airport
+HADD,Dembidollo Airport
+HADM,Debre Markos Airport
+HADR,Aba Tenna Dejazmach Yilma International Airport
+HADT,Debre Tabor Airport
+HAFN,Fincha Airport
+HAGB,Robe Airport
+HAGH,Ghinnir Airport
+HAGM,Gambela Airport
+HAGN,Gondar Airport
+HAGO,Gode Airport
+HAGR,Gore Airport
+HAHU,Humera Airport
+HAJJ,Wilwal International Airport
+HAJM,Jimma Airport
+HAKD,Kebri Dahar Airport
+HAKL,Kelafo East Airport
+HALA,Hawassa International Airport
+HALL,Lalibela Airport
+HAMA,Mekane Selam Airport
+HAMJ,Tume Airport
+HAMK,Alula Aba Nega Airport
+HAMM,Metema Airport
+HAMN,Mendi Airport
+HAMR,Mui River Airport
+HAMT,Mizan Teferi Airport
+HANG,Negele Airport
+HANJ,Nejjo Airport
+HANK,Nekemte Airport
+HAPW,Beles Airport
+HASD,Soddu Airport
+HASK,Shakiso Airport
+HASL,Shilavo Airport
+HASM,Semera Airport
+HASO,Asosa Airport
+HATP,Tippi Airport
+HAWR,Warder Airport
+HBBA,Bujumbura Melchior Ndadaye International Airport
+HBBE,Gitega Airport
+HBBO,Kirundo Airport
+HCMA,Alula Airport
+HCMB,Baidoa Airport
+HCMC,Candala Airport
+HCMD,Baardheere Airport
+HCME,Eil Airport
+HCMF,Bosaso / Bender Qassim International Airport
+HCMG,Gardo Airport
+HCMH,Egal International Airport
+HCMI,Berbera Airport
+HCMJ,Lugh Ganane Airport
+HCMK,Kismayo Airport
+HCMM,Aden Adde International Airport
+HCMO,Hobyo Airport
+HCMR,Galcaio Airport
+HCMS,Iskushuban Airport
+HCMU,Erigavo Airport
+HCMV,Burao Airport
+HDAM,Djibouti-Ambouli Airport
+HDAS,Ali-Sabieh Airport
+HDMO,Moucha Airport
+HDOB,Obock Airport
+HDTJ,Tadjoura Airport
+HEAL,El Alamein International Airport
+HEAR,El Arish International Airport
+HEAT,Asyut International Airport
+HEBA,Borj El Arab International Airport
+HEBL,Abu Simbel Airport
+HECA,Cairo International Airport
+HEDK,Ad Dakhla Airport
+HEGN,Hurghada International Airport
+HEKG,El Kharja Airport
+HELX,Luxor International Airport
+HEMA,Marsa Alam International Airport
+HEMM,Marsa Matruh International Airport
+HEOW,El Owainat East International Airport
+HEPS,Port Said International Airport
+HESC,Saint Catherine International Airport
+HESG,Suhaj Mubarak International Airport
+HESH,Sharm El Sheikh International Airport
+HESN,Aswan International Airport
+HETB,Taba International Airport
+HETR,At Tur Airport
+HHAS,Asmara International Airport
+HHMS,Massawa International Airport
+HHSB,Assab International Airport
+HHTS,Tessenei Airport
+HJJJ,Juba International Airport
+HKAM,Amboseli Airport
+HKEL,Eldoret International Airport
+HKES,Eliye Springs Airport
+HKFG,Kalokol Airport
+HKGA,Garissa Airport
+HKHO,Hola Airport
+HKJK,Jomo Kenyatta International Airport
+HKKE,Keekorok Airport
+HKKG,Kakamega Airport
+HKKI,Kisumu Airport
+HKKL,Kilaguni Airport
+HKKR,Kericho Airport
+HKKT,Kitale Airport
+HKLK,Lokichogio Airport
+HKLO,Lodwar Airport
+HKLU,Manda Airport
+HKLY,Loyengalani Airport
+HKMA,Mandera Airport
+HKMB,Marsabit Airport
+HKMK,Mulika Lodge Airport
+HKML,Malindi Airport
+HKMO,Moi International Airport
+HKMY,Moyale Airport
+HKNI,Nyeri Airport
+HKNK,Nakuru Airport
+HKNW,Nairobi Wilson Airport
+HKNY,Laikipia Air Base
+HKSB,Samburu Airport
+HKUK,Ukunda Airstrip
+HKWJ,Wajir Airport
+HLGD,Sirt International Airport / Ghardabiya Airbase
+HLGT,Ghat Airport
+HLKF,Kufra Airport
+HLLB,Benina International Airport
+HLLM,Mitiga International Airport
+HLLQ,Al Abraq International Airport
+HLLS,Sabha Airport
+HLMB,Marsa al Brega Airport
+HLMS,Misrata International Airport
+HLNR,Nafurah 1 Airport
+HLON,Hon Airport
+HLTD,Ghadames East Airport
+HLUB,Ubari Airport
+HLZN,Alzintan Airport
+HLZW,Zuwarah International Airport
+HRYG,Gisenyi Airport
+HRYI,Butare Airport
+HRYR,Kigali International Airport
+HRYU,Ruhengeri Airport
+HRZA,Kamembe Airport
+HSAT,Atbara Airport
+HSDB,Al Dabbah Airport
+HSDN,Dongola Airport
+HSDZ,Damazin Airport
+HSFS,El Fasher Airport
+HSGG,Galegu Airport
+HSGN,Geneina Airport
+HSKA,Kassala Airport
+HSKG,Khashm El Girba Airport
+HSLI,Kadugli Airport
+HSMN,Merowe Airport
+HSNH,En Nahud Airport
+HSNN,Nyala Airport
+HSNW,New Halfa Airport
+HSOB,El-Obeid Airport
+HSPN,Port Sudan New International Airport
+HSSK,Khartoum International Airport
+HSSW,Wadi Halfa Airport
+HSZA,Zalingei Airport
+HTAR,Arusha Airport
+HTBU,Bukoba Airport
+HTDA,Julius Nyerere International Airport
+HTDO,Dodoma Airport
+HTGE,Chato/Geita Airport
+HTGR,Kirawira B Aerodrome
+HTIR,Iringa Airport
+HTKA,Kigoma Airport
+HTKI,Kilwa Airport
+HTKJ,Kilimanjaro International Airport
+HTLI,Lindi Airport
+HTLM,Lake Manyara Airport
+HTMA,Mafia Airport
+HTMB,Mbeya Airport
+HTMD,Mwadui Airport
+HTMI,Masasi Airport
+HTMP,Mpanda Airport
+HTMT,Mtwara Airport
+HTMU,Musoma Airport
+HTMW,Mwanza Airport
+HTNA,Nachingwea Airport
+HTNJ,Njombe Airport
+HTPE,Pemba Airport
+HTSN,Seronera Airport
+HTSO,Songea Airport
+HTSU,Sumbawanga Airport
+HTSY,Shinyanga Airport
+HTTB,Tabora Airport
+HTTG,Tanga Airport
+HTZA,Abeid Amani Karume International Airport
+HUAR,Arua Airport
+HUEN,Entebbe International Airport
+HUGG,Bugungu Airport
+HUGU,Gulu Airport
+HUJI,Jinja Airport
+HUKS,Kasese Airport
+HUMA,Mbarara Airport
+HUMI,Masindi Airport
+HUPA,Kabalega Falls Airport
+HUSO,Soroti Airport
+HUTO,Tororo Airport
+WIMI,Syekh Hamzah Fansyuri Airport
+WIOD,Singkawang Airport
+VANR,Gandhinagar Airfield
+KAAF,Apalachicola Regional Airport
+KABE,Lehigh Valley International Airport
+KABI,Abilene Regional Airport
+KABQ,Albuquerque International Sunport
+KABR,Aberdeen Regional Airport
+KABY,Southwest Georgia Regional Airport
+KACB,Antrim County Airport
+KACK,Nantucket Memorial Airport
+KACT,Waco Regional Airport
+KACV,California Redwood Coast-Humboldt County Airport
+KACY,Atlantic City International Airport
+KADG,Lenawee County Airport
+KADH,Ada Regional Airport
+KADM,Ardmore Municipal Airport
+KADS,Addison Airport
+KADW,Joint Base Andrews
+KAEL,Albert Lea Municipal Airport
+KAEX,Alexandria International Airport
+KAFF,USAF Academy Airfield
+KAFJ,Washington County Airport
+KAFN,Jaffrey Airfield Silver Ranch Airport
+KAFO,Afton Municipal Airport
+KAFW,Perot Field/Fort Worth Alliance Airport
+KAGC,Allegheny County Airport
+KAGO,Magnolia Municipal Airport / Ralph C Weiser Field
+KAGS,Augusta Regional At Bush Field
+KAHC,Amedee Army Air Field
+KAHH,Amery Municipal Airport
+KAHN,Athens Ben Epps Airport
+KAIA,Alliance Municipal Airport
+KAID,Anderson Municipal Darlington Field
+KAIK,Aiken Regional Airport
+KAIO,Atlantic Municipal Airport
+KAIV,George Downer Airport
+KAIZ,Lee C Fine Memorial Airport
+KAKO,Colorado Plains Regional Airport
+KAKR,Akron Fulton International Airport
+KALB,Albany International Airport
+KALI,Alice International Airport
+KALM,Alamogordo White Sands Regional Airport
+KALN,St Louis Regional Airport
+KALO,Waterloo Regional Airport
+KALS,San Luis Valley Regional Airport/Bergman Field
+KALW,Walla Walla Regional Airport
+KALX,Thomas C Russell Field
+KAMA,Rick Husband Amarillo International Airport
+KAMN,Gratiot Community Airport
+KAMW,Ames Municipal Airport
+KANB,Anniston Regional Airport
+KAND,Anderson Regional Airport
+KANK,Salida Airport - Harriet Alexander Field
+KANP,Lee Airport
+KANQ,Tri State Steuben County Airport
+KANW,Ainsworth Regional Airport
+KANY,Anthony Municipal Airport
+KAOH,Lima Allen County Airport
+KAOO,Altoona Blair County Airport
+KAPA,Centennial Airport
+KAPC,Napa County Airport
+KAPF,Naples Municipal Airport
+KAPG,Phillips Army Air Field
+KAPH,Mary Walker LZ Airport
+KAPN,Alpena County Regional Airport
+KAPT,Marion County Airport - Brown Field
+KAPV,Apple Valley Airport
+KARA,Acadiana Regional Airport
+KARB,Ann Arbor Municipal Airport
+KARG,Walnut Ridge Regional Airport
+KARM,Wharton Regional Airport
+KARR,Aurora Municipal Airport
+KART,Watertown International Airport
+KARV,Lakeland Airport Noble F Lee Memorial Field
+KARW,Beaufort Executive Airport
+KASE,Aspen-Pitkin County Airport (Sardy Field)
+KASG,Springdale Municipal Airport
+KASH,Nashua Airport / Boire Field
+KASL,Harrison County Airport
+KASN,Talladega Municipal Airport
+KAST,Astoria Regional Airport
+KASX,John F Kennedy Memorial Airport
+KASY,Ashley Municipal Airport
+KATL,Hartsfield Jackson Atlanta International Airport
+KATS,Artesia Municipal Airport
+KATW,Appleton International Airport
+KATY,Watertown Regional Airport
+KAUG,Augusta State Airport
+KAUM,Austin Municipal Airport
+KAUN,Auburn Municipal Airport
+KAUO,Auburn University Regional Airport
+KAUS,Austin Bergstrom International Airport
+KAUW,Wausau Downtown Airport
+KAVL,Asheville Regional Airport
+KAVO,Avon Park Executive Airport
+KAVP,Wilkes Barre Scranton International Airport
+KAVQ,Marana Regional Airport
+KAVX,Catalina Airport
+KAWM,West Memphis Municipal Airport
+KAXA,Algona Municipal Airport
+KAXN,Chandler Field
+KAXS,Altus Quartz Mountain Regional Airport
+KAXV,Neil Armstrong Airport
+KAXX,Angel Fire Airport
+KAYS,Waycross Ware County Airport
+KAZO,Kalamazoo Battle Creek International Airport
+KBAB,Beale Air Force Base
+KBAD,Barksdale Air Force Base
+KBAF,Westfield-Barnes Regional Airport
+KBAK,Columbus Municipal Airport
+KBAM,Battle Mountain Airport
+KBAZ,New Braunfels Municipal Airport
+KBBB,Benson Municipal Airport
+KBBD,Curtis Field
+KBBG,Branson Airport
+KBBP,Marlboro County Jetport - H E Avent Field Airport
+KBBW,Broken Bow Municipal Airport
+KBCB,Virginia Tech Montgomery Executive Airport
+KBCE,Bryce Canyon Airport
+KBCT,Boca Raton Airport
+KBDE,Baudette International Airport
+KBDG,Blanding Municipal Airport
+KBDH,Willmar Municipal Airport John L Rice Field (2006)
+KBDL,Bradley International Airport
+KBDR,Igor I Sikorsky Memorial Airport
+KBDU,Boulder Municipal Airport
+KBEC,Beech Factory Airport
+KBED,Laurence G Hanscom Field
+KBEH,Southwest Michigan Regional Airport
+KBFD,Bradford Regional Airport
+KBFF,Western Neb. Rgnl/William B. Heilig Airport
+KBFI,Boeing Field King County International Airport
+KBFL,Meadows Field
+KBFM,Mobile Downtown Airport
+KBFR,Virgil I Grissom Municipal Airport
+KBGD,Hutchinson County Airport
+KBGE,Decatur County Industrial Air Park
+KBGM,Greater Binghamton/Edwin A Link field
+KBGR,Bangor International Airport
+KBHB,Hancock County-Bar Harbor Airport
+KBHM,Birmingham-Shuttlesworth International Airport
+KBID,Block Island State Airport
+KBIE,Beatrice Municipal Airport
+KBIF,Biggs Army Air Field (Fort Bliss)
+KBIH,Eastern Sierra Regional Airport
+KBIL,Billings Logan International Airport
+KBIS,Bismarck Municipal Airport
+KBIX,Keesler Air Force Base
+KBJC,Rocky Mountain Metropolitan Airport
+KBJI,Bemidji Regional Airport
+KBJJ,Wayne County Airport
+KBKD,Stephens County Airport
+KBKE,Baker City Municipal Airport
+KBKF,Buckley Space Force Base
+KBKL,Burke Lakefront Airport
+KBKN,Blackwell Tonkawa Municipal Airport
+KBKT,Allen C Perkinson Blackstone Army Air Field
+KBKW,Raleigh County Memorial Airport
+KBKX,Brookings Regional Airport
+KBLF,Mercer County Airport
+KBLH,Blythe Airport
+KBLI,Bellingham International Airport
+KBLM,Monmouth Executive Airport
+KBLU,Blue Canyon Nyack Airport
+KBLV,Scott AFB/Midamerica Airport
+KBMC,Brigham City Regional Airport
+KBMG,Monroe County Airport
+KBMI,Central Illinois Regional Airport at Bloomington-Normal
+KBML,Berlin Regional Airport
+KBMT,Beaumont Municipal Airport
+KBNA,Nashville International Airport
+KBNG,Banning Municipal Airport
+KBNL,Barnwell Regional Airport
+KBNO,Burns Municipal Airport
+KBNW,Boone Municipal Airport
+KBOI,Boise Air Terminal/Gowen Field
+KBOK,Brookings Airport
+KBOS,Logan International Airport
+KBOW,Bartow Executive Airport
+KBPG,Big Spring Mc Mahon-Wrinkle Airport
+KBPI,Miley Memorial Field
+KBPK,Ozark Regional Airport
+KBPT,Jack Brooks Regional Airport
+KBQK,Brunswick Golden Isles Airport
+KBRD,Brainerd Lakes Regional Airport
+KBRL,Southeast Iowa Regional Airport
+KBRO,Brownsville South Padre Island International Airport
+KBRY,Samuels Field
+KBTF,Skypark Airport
+KBTL,Battle Creek Executive Airport at Kellogg Field
+KBTM,Bert Mooney Airport
+KBTN,Britton Municipal Airport
+KBTP,Pittsburgh/Butler Regional Airport
+KBTR,Baton Rouge Metropolitan Airport
+KBTV,Burlington International Airport
+KBTY,Beatty Airport
+KBUB,Cram Field
+KBUF,Buffalo Niagara International Airport
+KBUM,Butler Memorial Airport
+KBUR,Hollywood Burbank Airport
+KBVI,Beaver County Airport
+KBVO,Bartlesville Municipal Airport
+KBVS,Skagit Regional Airport
+KBVX,Batesville Regional Airport
+KBVY,Beverly Regional Airport
+KBWC,Brawley Municipal Airport
+KBWD,Brownwood Regional Airport
+KBWG,Bowling Green Warren County Regional Airport
+KBWI,Baltimore/Washington International Thurgood Marshall Airport
+KBWP,Harry Stern Airport
+KBXA,George R Carr Memorial Air Field
+KBXK,Buckeye Municipal Airport
+KBXM,Brunswick Executive Airport
+KBYG,Johnson County Airport
+KBYH,Arkansas International Airport
+KBYI,Burley Municipal Airport
+KBYS,Bicycle Lake Army Air Field
+KBYY,Bay City Regional Airport
+KBZN,Bozeman Yellowstone International Airport
+KCAD,Wexford County Airport
+KCAE,Columbia Metropolitan Airport
+KCAG,Craig Moffat Airport
+KCAK,Akron Canton Regional Airport
+KCAO,Clayton Municipal Airpark
+KCAR,Caribou Municipal Airport
+KCBE,Greater Cumberland Regional Airport
+KCBF,Council Bluffs Municipal Airport
+KCBK,Shalz Field
+KCBM,Columbus Air Force Base
+KCCB,Upland-Cable Airport
+KCCR,Buchanan Field
+KCCY,Northeast Iowa Regional Airport
+KCDA,Caledonia County Airport
+KCDC,Cedar City Regional Airport
+KCDH,Harrell Field
+KCDK,George T Lewis Airport
+KCDN,Woodward Field
+KCDR,Chadron Municipal Airport
+KCDS,Childress Municipal Airport
+KCDW,Essex County Airport
+KCEA,Cessna Aircraft Field
+KCEC,Jack Mc Namara Field Airport
+KCEU,Oconee County Regional Airport
+KCEV,Mettel Field
+KCEW,Bob Sikes Airport
+KCEY,Murray-Calloway County Airport Kyle-Oakley Field
+KCEZ,Cortez Municipal Airport
+KCFD,Coulter Field
+KCFS,Tuscola Area Airport
+KCFT,Greenlee County Airport
+KCFV,Coffeyville Municipal Airport
+KCGE,Cambridge Dorchester Airport
+KCGF,Cuyahoga County Airport
+KCGI,Cape Girardeau Regional Airport
+KCGS,College Park Airport
+KCGZ,Casa Grande Municipal Airport
+KCHA,Chattanooga Metropolitan Airport (Lovell Field)
+KCHK,Chickasha Municipal Airport
+KCHO,Charlottesville Albemarle Airport
+KCHS,Charleston International Airport
+KCIC,Chico Regional Airport
+KCID,The Eastern Iowa Airport
+KCIN,Arthur N Neu Airport
+KCIR,Cairo Regional Airport
+KCIU,Chippewa County International Airport
+KCKA,Kegelman AF Aux Field
+KCKB,North Central West Virginia Airport
+KCKC,Grand Marais Cook County Airport
+KCKM,Fletcher Field
+KCKN,Crookston Municipal Kirkwood Field
+KCKV,Clarksville–Montgomery County Regional Airport
+KCLE,Cleveland Hopkins International Airport
+KCLI,Clintonville Municipal Airport
+KCLK,Clinton Regional Airport
+KCLL,Easterwood Field
+KCLM,William R Fairchild International Airport
+KCLR,Cliff Hatfield Memorial Airport
+KCLS,Chehalis Centralia Airport
+KCLT,Charlotte Douglas International Airport
+KCLW,Clearwater Air Park
+KCMH,John Glenn Columbus International Airport
+KCMI,University of Illinois Willard Airport
+KCMX,Houghton County Memorial Airport
+KCMY,Sparta Fort McCoy Airport
+KCNH,Claremont Municipal Airport
+KCNK,Blosser Municipal Airport
+KCNM,Cavern City Air Terminal
+KCNO,Chino Airport
+KCNU,Chanute Martin Johnson Airport
+KCNW,TSTC Waco Airport
+KCNY,Canyonlands Regional Airport
+KCOD,Yellowstone Regional Airport
+KCOE,Coeur D'Alene Airport - Pappy Boyington Field
+KCOF,Patrick Space Force Base
+KCOI,Merritt Island Airport
+KCOM,Coleman Municipal Airport
+KCON,Concord Municipal Airport
+KCOS,City of Colorado Springs Municipal Airport
+KCOT,Cotulla-La Salle County Airport
+KCOU,Columbia Regional Airport
+KCPM,Compton Woodley Airport
+KCPR,Casper-Natrona County International Airport
+KCPS,St Louis Downtown Airport
+KCQW,Cheraw Municipal Airport/Lynch Bellinger Field
+KCRE,Grand Strand Airport
+KCRG,Jacksonville Executive at Craig Airport
+KCRP,Corpus Christi International Airport
+KCRQ,McClellan-Palomar Airport
+KCRS,C David Campbell Field Corsicana Municipal Airport
+KCRT,Z M Jack Stell Field
+KCRW,Yeager Airport
+KCRX,Roscoe Turner Airport
+KCSG,Columbus Metropolitan Airport
+KCSM,Clinton Sherman Airport
+KCSQ,Creston Municipal Airport
+KCSV,Crossville Memorial Airport Whitson Field
+KCTB,Cut Bank International Airport
+KCTY,Cross City Airport
+KCTZ,Sampson County Airport
+KCUB,Jim Hamilton L.B. Owens Airport
+KCUH,Cushing Municipal Airport
+KCVG,Cincinnati Northern Kentucky International Airport
+KCVH,Hollister Municipal Airport
+KCVK,Sharp County Regional Airport
+KCVN,Clovis Municipal Airport
+KCVO,Corvallis Municipal Airport
+KCVS,Cannon Air Force Base
+KCWA,Central Wisconsin Airport
+KCWC,Kickapoo Downtown Airport
+KCWF,Chennault International Airport
+KCWI,Clinton Municipal Airport
+KCXL,Calexico International Airport
+KCXO,Conroe-North Houston Regional Airport
+KCXP,Carson Airport
+KCXY,Capital City Airport
+KCYS,Cheyenne Regional Jerry Olson Field
+KCZK,Cascade Locks State Airport
+KCZT,Dimmit County Airport
+KDAA,Davison Army Air Field
+KDAB,Daytona Beach International Airport
+KDAG,Barstow Daggett Airport
+KDAL,Dallas Love Field
+KDAN,Danville Regional Airport
+KDAY,James M Cox Dayton International Airport
+KDBN,W H 'Bud' Barron Airport
+KDBQ,Dubuque Regional Airport
+KDCA,Ronald Reagan Washington National Airport
+KDCU,Pryor Field Regional Airport
+KDDC,Dodge City Regional Airport
+KDEC,Decatur Airport
+KDEH,Decorah Municipal Airport
+KDEN,Denver International Airport
+KDFI,Defiance Memorial Airport
+KDFW,Dallas Fort Worth International Airport
+KDGL,Douglas Municipal Airport
+KDGW,Converse County Airport
+KDHN,Dothan Regional Airport
+KDHT,Dalhart Municipal Airport
+KDIK,Dickinson Theodore Roosevelt Regional Airport
+KDKK,Chautauqua County-Dunkirk Airport
+KDLC,Dillon County Airport
+KDLF,Laughlin Air Force Base
+KDLH,Duluth International Airport
+KDLN,Dillon Airport
+KDLS,Columbia Gorge Regional Airport
+KDMA,Davis Monthan Air Force Base
+KDMN,Deming Municipal Airport
+KDMO,Sedalia Memorial Airport
+KDNL,Daniel Field
+KDNN,Dalton Municipal Airport
+KDNS,Denison Municipal Airport
+KDNV,Vermilion Regional Airport
+KDOV,Dover Air Force Base
+KDPA,Dupage Airport
+KDPG,Michael AAF (Dugway Proving Ground) Airport
+KDRA,Desert Rock Airport
+KDRI,Beauregard Regional Airport
+KDRM,Drummond Island Airport
+KDRO,Durango La Plata County Airport
+KDRT,Del Rio International Airport
+KDSM,Des Moines International Airport
+KDSV,Dansville Municipal Airport
+KDTA,Delta Municipal Airport
+KDTL,Detroit Lakes Airport
+KDTN,Shreveport Downtown Airport
+KDTS,Destin Executive Airport
+KDTW,Detroit Metropolitan Wayne County Airport
+KDUA,Durant Regional Airport - Eaker Field
+KDUC,Halliburton Field
+KDUG,Bisbee Douglas International Airport
+KDUJ,DuBois Regional Airport
+KDVL,Devils Lake Regional Airport
+KDVN,Davenport Municipal Airport
+KDVO,Marin County Airport - Gnoss Field
+KDVP,Slayton Municipal Airport
+KDVT,Phoenix Deer Valley Airport
+KDWH,David Wayne Hooks Memorial Airport
+KDXR,Danbury Municipal Airport
+KDYL,Doylestown Airport
+KDYS,Dyess Air Force Base
+HKOL,Oropoi Airport
+KEAN,Phifer Airfield
+KEAR,Kearney Regional Airport
+KEAT,Pangborn Memorial Airport
+KEAU,Chippewa Valley Regional Airport
+KEBS,Webster City Municipal Airport
+KECG,Elizabeth City Regional Airport & Coast Guard Air Station
+KECP,Northwest Florida Beaches International Airport
+KECS,Mondell Field
+KEDE,Northeastern Regional Airport
+KEDN,Enterprise Municipal Airport
+KEDW,Edwards Air Force Base
+KEED,Needles Airport
+KEEN,Dillant Hopkins Airport
+KEFD,Ellington Airport
+KEFK,Northeast Kingdom International Airport
+KEFW,Jefferson Municipal Airport
+KEGE,Eagle County Regional Airport
+KEGI,Duke Field
+KEGV,Eagle River Union Airport
+KEKA,Murray Field
+KEKM,Elkhart Municipal Airport
+KEKN,Elkins-Randolph County Regional Airport
+KEKO,Elko Regional Airport
+KEKX,Addington Field / Elizabethtown Regional Airport
+KELA,Eagle Lake Airport
+KELD,South Arkansas Regional Airport at Goodwin Field
+KELK,Elk City Regional Business Airport
+KELM,Elmira Corning Regional Airport
+KELN,Bowers Field
+KELO,Ely Municipal Airport
+KELP,El Paso International Airport
+KELY,Ely Airport Yelland Field
+KELZ,Wellsville Municipal Airport - Tarantine Field
+KEMM,Kemmerer Municipal Airport
+KEMP,Emporia Municipal Airport
+KEMT,San Gabriel Valley Airport
+KEND,Vance Air Force Base
+KENL,Centralia Municipal Airport
+KENV,Wendover Airport
+KENW,Kenosha Regional Airport
+KEOK,Keokuk Municipal Airport
+KEOS,Neosho Hugh Robinson Airport
+KEPH,Ephrata Municipal Airport
+KEQA,Captain Jack Thomas El Dorado Airport
+KERI,Erie International Tom Ridge Field
+KERR,Errol Airport
+KERV,Kerrville / Kerr County Airport at Louis Schreiner Field
+KESC,Delta County Airport
+KESF,Esler Army Airfield / Esler Regional Airport
+KESN,Easton Airport / Newnam Field
+KEST,Estherville Municipal Airport
+KESW,Easton State Airport
+KETB,West Bend Municipal Airport
+KETN,Eastland Municipal Airport
+KEUF,Weedon Field
+KEUG,Mahlon Sweet Field
+KEVM,Eveleth–Virginia Municipal Airport
+KEVV,Evansville Regional Airport
+KEVW,Evanston-Uinta County Airport-Burns Field
+KEWB,New Bedford Regional Airport
+KEWK,Newton City-County Airport
+KEWN,Coastal Carolina Regional Airport
+KEWR,Newark Liberty International Airport
+KEYW,Key West International Airport
+KFAF,Felker Army Air Field
+KFAM,Farmington Regional Airport
+KFAR,Hector International Airport
+KFAT,Fresno Yosemite International Airport
+KFAY,Fayetteville Regional Airport - Grannis Field
+KFBG,Simmons Army Air Field
+KFBL,Faribault Municipal Airport-Liz Wall Strohfus Field
+KFBR,Fort Bridger Airport
+KFBY,Fairbury Municipal Airport
+KFCH,Fresno Chandler Executive Airport
+KFCI,Richmond Executive-Chesterfield County Airport
+KFCM,Flying Cloud Airport
+KFCS,Butts AAF (Fort Carson) Air Field
+KFCY,Forrest City Municipal Airport
+KFDK,Frederick Municipal Airport
+KFDR,Frederick Regional Airport
+KFDY,Findlay Airport
+KFEP,Albertus Airport
+KFET,Fremont Municipal Airport
+KFFA,First Flight Airport
+KFFL,Fairfield Municipal Airport
+KFFM,Fergus Falls Municipal Airport - Einar Mickelson Field
+KFFO,Wright-Patterson Air Force Base
+KFFT,Capital City Airport
+KFFZ,Falcon Field
+KFHR,Friday Harbor Airport
+KFHU,Sierra Vista Municipal Airport / Libby Army Air Field
+KFKL,Venango Regional Airport
+KFKN,Franklin Regional Airport
+KFLD,Fond du Lac County Airport
+KFLG,Flagstaff Pulliam International Airport
+KFLL,Fort Lauderdale Hollywood International Airport
+KFLO,Florence Regional Airport
+KFLP,Marion County Regional Airport
+KFLV,Sherman Army Air Field
+KFLX,Fallon Municipal Airport
+KFME,Tipton Airport
+KFMH,Cape Cod Coast Guard Air Station
+KFMN,Four Corners Regional Airport
+KFMY,Page Field
+KFNL,Northern Colorado Regional Airport
+KFNT,Bishop International Airport
+KFOD,Fort Dodge Regional Airport
+KFOE,Topeka Regional Airport
+KFOK,Francis S Gabreski Airport
+KFOM,Fillmore Municipal Airport
+KFPR,St Lucie County International Airport
+KFRG,Republic Airport
+KFRH,French Lick Municipal Airport
+KFRI,Marshall Army Air Field
+KFRM,Fairmont Municipal Airport
+KFRR,Front Royal Warren County Airport
+KFSD,Sioux Falls Regional Airport / Joe Foss Field
+KFSI,Henry Post Army Air Field
+KFSK,Fort Scott Municipal Airport
+KFSM,Fort Smith Regional Airport
+KFST,Fort Stockton Pecos County Airport
+KFSU,Fort Sumner Municipal Airport
+KFSW,Fort Madison Municipal Airport
+KFTK,Godman Army Air Field
+KFTW,Fort Worth Meacham International Airport
+KFTY,Fulton County Airport Brown Field
+KFUL,Fullerton Municipal Airport
+KFVE,Northern Aroostook Regional Airport
+KFWA,Fort Wayne International Airport
+KFXE,Fort Lauderdale Executive Airport
+KFXY,Forest City Municipal Airport
+KFYM,Fayetteville Municipal Airport
+KFYV,Drake Field
+UCFD,Jalal-Abad Airport
+KGAB,Gabbs Airport
+KGAD,Northeast Alabama Regional Airport
+KGAG,Gage Heibeck Airport
+KGAI,Montgomery County Airpark
+KGBD,Great Bend Municipal Airport
+KGBG,Galesburg Municipal Airport
+KGBR,Walter J. Koladza Airport
+KGCC,Northeast Wyoming Regional Airport
+KGCD,Grant County Regional Airport / Ogilvie Field
+KGCK,Garden City Regional Airport
+KGCN,Grand Canyon National Park Airport
+KGCY,Greeneville Municipal Airport
+KGDM,Gardner Municipal Airport
+KGDV,Dawson Community Airport
+KGDW,Gladwin Zettel Memorial Airport
+KGED,Delaware Coastal Airport
+KGEG,Spokane International Airport
+KGEY,South Big Horn County Airport
+KGFD,Pope Field
+KGFK,Grand Forks International Airport
+KGFL,Floyd Bennett Memorial Airport
+KGGE,Georgetown County Airport
+KGGG,East Texas Regional Airport
+KGGW,Glasgow Valley County Airport Wokal Field
+KGHM,Centerville Municipal Airport
+KGIC,Idaho County Airport
+KGIF,Winter Haven Regional Airport - Gilbert Field
+KGJT,Grand Junction Regional Airport
+KGKJ,Port Meadville Airport
+KGKT,Gatlinburg-Pigeon Forge Airport
+KGLD,Goodland Municipal Airport
+KGLE,Gainesville Municipal Airport
+KGLH,Mid Delta Regional Airport
+KGLR,Gaylord Regional Airport
+KGLS,Scholes International At Galveston Airport
+KGLW,Glasgow Municipal Airport
+KGMU,Greenville Downtown Airport
+KGNG,Gooding Municipal Airport
+KGNT,Grants-Milan Municipal Airport
+KGNV,Gainesville Regional Airport
+KGOK,Guthrie-Edmond Regional Airport
+KGON,Groton New London Airport
+KGPI,Glacier Park International Airport
+KGPT,Gulfport Biloxi International Airport
+KGPZ,Grand Rapids Itasca Co-Gordon Newstrom field
+KGQQ,Galion Municipal Airport
+KGRB,Austin Straubel International Airport
+KGRD,Greenwood County Airport
+KGRE,Greenville Airport
+KGRF,Gray Army Air Field
+KGRI,Central Nebraska Regional Airport
+KGRK,Killeen Regional Airport / Robert Gray Army Airfield
+KGRN,Gordon Municipal Airport
+KGRR,Gerald R. Ford International Airport
+KGSB,Seymour Johnson Air Force Base
+KGSH,Goshen Municipal Airport
+KGSO,Piedmont Triad International Airport
+KGSP,Greenville Spartanburg International Airport
+KGTF,Great Falls International Airport
+KGTG,Grantsburg Municipal Airport
+KGTR,Golden Triangle Regional Airport
+KGUC,Gunnison Crested Butte Regional Airport
+KGUP,Gallup Municipal Airport
+KGUS,Grissom Air Reserve Base
+KGUY,Guymon Municipal Airport
+KGVE,Gordonsville Municipal Airport
+KGVL,Lee Gilmer Memorial Airport
+KGVT,Majors Airport
+KGWO,Greenwood–Leflore Airport
+KGWS,Glenwood Springs Municipal Airport
+KGXY,Greeley–Weld County Airport
+KGYH,Donaldson Field Airport
+KGYI,North Texas Regional Airport Perrin Field
+KGYR,Phoenix Goodyear Airport
+KHAB,Marion County Rankin Fite Airport
+KHAF,Half Moon Bay Airport
+KHAI,Three Rivers Municipal Dr Haines Airport
+KHAO,Butler Co Regional Airport - Hogan Field
+KHBG,Hattiesburg Bobby L Chain Municipal Airport
+KHBR,Hobart Regional Airport
+KHDE,Brewster Field
+KHDN,Yampa Valley Airport
+KHEE,Thompson-Robbins Airport
+KHEF,Manassas Regional Airport/Harry P. Davis Field
+KHEZ,Natchez–Adams County Airport / Hardy-Anders Field
+KHFD,Hartford Brainard Airport
+KHFF,Mackall Army Air Field
+KHGR,Hagerstown Regional Richard A Henson Field
+KHHR,Jack Northrop Field Hawthorne Municipal Airport
+KHHW,Stan Stamper Municipal Airport
+KHIB,Range Regional Airport
+KHIE,Mount Washington Regional Airport
+KHIF,Hill Air Force Base
+KHII,Lake Havasu City International Airport
+KHIO,Portland Hillsboro Airport
+KHKA,Blytheville Municipal Airport
+KHKS,Hawkins Field
+KHKY,Hickory Regional Airport
+KHLB,Batesville Airport
+KHLC,Hill City Municipal Airport
+KHLG,Wheeling Ohio County Airport
+KHLN,Helena Regional Airport
+KHLR,Hood Army Air Field
+KHMN,Holloman Air Force Base
+KHMT,Hemet Ryan Airport
+KHNB,Huntingburg Airport
+KHND,Henderson Executive Airport
+KHOB,Lea County Regional Airport
+KHON,Huron Regional Airport
+KHOP,Campbell Army Airfield (Fort Campbell)
+KHOT,Memorial Field Airport
+KHOU,William P Hobby Airport
+KHPN,Westchester County Airport
+KHPT,Hampton Municipal Airport
+KHPY,Baytown Airport
+KHQM,Bowerman Airport
+KHRI,Hermiston Municipal Airport
+KHRL,Valley International Airport
+KHRO,Boone County Airport
+KHSB,Harrisburg-Raleigh Airport
+KHSE,Billy Mitchell Airport
+KHSI,Hastings Municipal Airport
+KHSP,Ingalls Field
+KHST,Homestead ARB Airport
+KHSV,Huntsville International Carl T Jones Field
+KHTH,Hawthorne Industrial Airport
+KHTL,Roscommon County - Blodgett Memorial Airport
+KHTS,Tri-State Airport / Milton J. Ferguson Field
+KHTW,Lawrence County Airpark
+KHUA,Redstone Army Air Field
+KHUL,Houlton International Airport
+KHUM,Houma Terrebonne Airport
+KHUT,Hutchinson Municipal Airport
+KHVE,Hanksville Airport
+KHVN,Tweed New Haven Airport
+KHVR,Havre City County Airport
+KHVS,Hartsville Regional Airport
+KHWD,Hayward Executive Airport
+KHWO,North Perry Airport
+KHWV,Brookhaven Calabro Airport
+KHXD,Hilton Head Airport
+KHYA,Cape Cod Gateway Airport
+KHYR,Sawyer County Airport
+KHYS,Hays Regional Airport
+KHZL,Hazleton Municipal Airport
+KHZY,Northeast Ohio Regional Airport
+KIAB,McConnell Air Force Base
+KIAD,Washington Dulles International Airport
+KIAG,Niagara Falls International Airport
+KIAH,George Bush Intercontinental Houston Airport
+KICL,Schenck Field
+KICT,Wichita Eisenhower National Airport
+KIDA,Idaho Falls Regional Airport
+KIDG,Ida Grove Municipal Airport
+KIDI,Indiana County–Jimmy Stewart Airport
+KIDP,Independence Municipal Airport
+KIEN,Pine Ridge Airport
+KIFA,Iowa Falls Municipal Airport
+KIFP,Laughlin Bullhead International Airport
+KIGM,Kingman Airport
+KIJX,Jacksonville Municipal Airport
+KIKK,Greater Kankakee Airport
+KILE,Skylark Field
+KILG,Wilmington Airport
+KILM,Wilmington International Airport
+KILN,Wilmington Airpark
+KIML,Imperial Municipal Airport
+KIMM,Immokalee Regional Airport
+KIMS,Madison Municipal Airport
+KIMT,Ford Airport
+KIND,Indianapolis International Airport
+KINK,Winkler County Airport
+KINL,Falls International Airport
+KINS,Creech Air Force Base
+KINT,Smith Reynolds Airport
+KINW,Winslow Lindbergh Regional Airport
+KIOW,Iowa City Municipal Airport
+KIPL,Imperial County Airport
+KIPT,Williamsport Regional Airport
+KIRK,Kirksville Regional Airport
+KIRS,Kirsch Municipal Airport
+KISM,Kissimmee Gateway Airport
+KISO,Kinston Regional Jetport At Stallings Field
+KISP,Long Island Mac Arthur Airport
+KISQ,Schoolcraft County Airport
+KISW,Alexander Field South Wood County Airport
+KITH,Ithaca Tompkins Regional Airport
+KIWA,Mesa Gateway Airport
+KIWD,Gogebic Iron County Airport
+KIWI,Wiscasset Airport
+KIWS,West Houston Airport
+KIXD,New Century AirCenter Airport
+KIYK,Inyokern Airport
+KIZA,Santa Ynez Airport
+KIZG,Eastern Slopes Regional Airport
+KJAC,Jackson Hole Airport
+KJAN,Jackson-Medgar Wiley Evers International Airport
+KJAS,Jasper County Airport Bell Field
+KJAX,Jacksonville International Airport
+KJBR,Jonesboro Municipal Airport
+KJCT,Kimble County Airport
+KJDN,Jordan Airport
+KJEF,Jefferson City Memorial Airport
+KJFK,John F Kennedy International Airport
+KJHW,Chautauqua County-Jamestown Airport
+KJKA,Jack Edwards National Airport
+KJLN,Joplin Regional Airport
+KJMS,Jamestown Regional Airport
+KJOT,Joliet Regional Airport
+KJQF,Concord-Padgett Regional Airport
+KJSO,Cherokee County Airport
+KJST,John Murtha Johnstown Cambria County Airport
+KJVL,Southern Wisconsin Regional Airport
+KJXN,Jackson County Airport/Reynolds Field
+KKIC,Mesa Del Rey Airport
+KKLS,Southwest Washington Regional Airport
+KKNB,Kanab Municipal Airport
+KLAA,Southeast Colorado Regional Airport
+KLAF,Purdue University Airport
+KLAL,Lakeland Linder International Airport
+KLAM,Los Alamos Airport
+KLAN,Capital City Airport
+KLAR,Laramie Regional Airport
+KLAS,Harry Reid International Airport
+KLAW,Lawton Fort Sill Regional Airport
+KLAX,Los Angeles International Airport
+KLBB,Lubbock Preston Smith International Airport
+KLBE,Arnold Palmer Regional Airport
+KLBF,North Platte Regional Airport Lee Bird Field
+KLBL,Liberal Mid-America Regional Airport
+KLBT,Lumberton Regional Airport
+KLBX,Texas Gulf Coast Regional Airport
+KLCH,Lake Charles Regional Airport
+KLCI,Laconia Municipal Airport
+KLCK,Rickenbacker International Airport
+KLCQ,Lake City Gateway Airport
+KLDJ,Linden Airport
+KLDM,Mason County Airport
+KLEB,Lebanon Municipal Airport
+KLEE,Leesburg International Airport
+KLEM,Lemmon Municipal Airport
+KLEW,Auburn Lewiston Municipal Airport
+KLEX,Blue Grass Airport
+KLFI,Langley Air Force Base
+KLFK,Angelina County Airport
+KLFT,Lafayette Regional Airport
+KLGA,LaGuardia Airport
+KLGB,Long Beach Airport (Daugherty Field)
+KLGC,LaGrange Callaway Airport
+KLGD,La Grande/Union County Airport
+KLGF,Laguna Army Airfield
+KLGU,Logan-Cache Airport
+KLHV,William T. Piper Memorial Airport
+KLHW,MidCoast Regional Airport at Wright Army Airfield
+KLHZ,Triangle North Executive Airport
+KLIC,Limon Municipal Airport
+KLIT,Bill & Hillary Clinton National Airport/Adams Field
+KLKP,Lake Placid Airport
+KLKU,Louisa County Airport / Freeman Field
+KLKV,Lake County Airport
+KLLJ,Challis Airport
+KLMS,Louisville Winston County Airport
+KLMT,Crater Lake-Klamath Regional Airport
+KLNA,Palm Beach County Park Airport
+KLND,Hunt Field
+KLNK,Lincoln Airport
+KLNN,Lake County Executive Airport
+KLNP,Lonesome Pine Airport
+KLNR,Tri-County Regional Airport
+KLNS,Lancaster Airport
+KLOL,Derby Field
+KLOM,Wings Field
+KLOT,Lewis University Airport
+KLOU,Bowman Field
+KLOZ,London-Corbin Airport/Magee Field
+KLPC,Lompoc Airport
+KLQK,Pickens County Airport
+KLRD,Laredo International Airport
+KLRF,Little Rock Air Force Base
+KLRJ,Le Mars Municipal Airport
+KLRU,Las Cruces International Airport
+KLSB,Lordsburg Municipal Airport
+KLSE,La Crosse Regional Airport
+KLSF,Lawson Army Air Field
+KLSK,Lusk Municipal Airport
+KLSN,Los Banos Municipal Airport
+KLSV,Nellis Air Force Base
+KLTS,Altus Air Force Base
+KLUF,Luke Air Force Base
+KLUK,Cincinnati Municipal Airport Lunken Field
+KLUL,Hesler Noble Field
+KLVK,Livermore Municipal Airport
+KLVL,Brunswick Municipal Airport
+KLVM,Mission Field
+KLVS,Las Vegas Municipal Airport
+KLWB,Greenbrier Valley Airport
+KLWC,Lawrence Municipal Airport
+KLWL,Wells Municipal Airport/Harriet Field
+KLWM,Lawrence Municipal Airport
+KLWS,Lewiston Nez Perce County Airport
+KLWT,Lewistown Municipal Airport
+KLWV,Lawrenceville Vincennes International Airport
+KLXN,Jim Kelly Field
+KLXV,Lake County Airport
+KLYH,Lynchburg Regional Airport - Preston Glenn Field
+KLYO,Lyons-Rice County Municipal Airport
+KLZU,Gwinnett County Briscoe Field
+KMAC,Macon Downtown Airport
+KMAE,Madera Municipal Airport
+KMAF,Midland International Air and Space Port
+KMAW,Malden Regional Airport
+KMBG,Mobridge Municipal Airport
+KMBL,Manistee County Blacker Airport
+KMBO,Bruce Campbell Field
+KMBS,MBS International Airport
+KMBY,Omar N Bradley Airport
+KMCB,McComb-Pike County Airport / John E Lewis Field
+KMCC,McClellan Airfield
+KMCD,Mackinac Island Airport
+KMCE,Merced Regional Macready Field
+KMCF,MacDill Air Force Base
+KMCI,Kansas City International Airport
+KMCK,McCook Ben Nelson Regional Airport
+KMCN,Middle Georgia Regional Airport
+KMCO,Orlando International Airport
+KMCW,Mason City Municipal Airport
+KMDD,Midland Airpark
+KMDH,Southern Illinois Airport
+KMDS,Madison Municipal Airport
+KMDT,Harrisburg International Airport
+KMDW,Chicago Midway International Airport
+KMDZ,Taylor County Airport
+KMEB,Laurinburg Maxton Airport
+KMEI,Key Field / Meridian Regional Airport
+KMEM,Memphis International Airport
+KMER,Castle Airport
+KMEV,Minden-Tahoe Airport
+KMFD,Mansfield Lahm Regional Airport
+KMFE,McAllen Miller International Airport
+KMFI,Marshfield Municipal Airport
+KMFR,Rogue Valley International Medford Airport
+KMFV,Accomack County Airport
+KMGC,Michigan City Municipal Airport
+KMGE,Dobbins Air Reserve Base
+KMGJ,Orange County Airport
+KMGM,Montgomery Regional (Dannelly Field) Airport
+KMGR,Moultrie Municipal Airport
+KMGW,Morgantown Municipal Airport Walter L. (Bill) Hart Field
+KMGY,Dayton-Wright Brothers Airport
+KMHE,Mitchell Municipal Airport
+KMHK,Manhattan Regional Airport
+KMHL,Marshall Memorial Municipal Airport
+KMHR,Sacramento Mather Airport
+KMHT,Manchester-Boston Regional Airport
+KMHV,Mojave Airport
+KMIA,Miami International Airport
+KMIB,Minot Air Force Base
+KMIC,Crystal Airport
+KMIE,Delaware County Johnson Field
+KMIO,Miami Municipal Airport
+KMIT,Shafter Airport - Minter Field
+KMIV,Millville Municipal Airport
+KMIW,Marshalltown Municipal Airport
+KMJQ,Jackson Municipal Airport
+KMJX,Ocean County Airport
+KMKC,Charles B. Wheeler Downtown Airport
+KMKE,General Mitchell International Airport
+KMKG,Muskegon County Airport
+KMKL,McKellar-Sipes Regional Airport
+KMKO,Muskogee-Davis Regional Airport
+KMKT,Mankato Regional Airport
+KMKY,Marco Island Executive Airport
+KMLB,Melbourne Orlando International Airport
+KMLC,Mc Alester Regional Airport
+KMLD,Malad City Airport
+KMLE,Millard Airport
+KMLF,Milford Municipal-Ben and Judy Briscoe Field
+KMLI,Quad City International Airport
+KMLJ,Baldwin County Regional Airport
+KMLS,Miles City Airport - Frank Wiley Field
+KMLT,Millinocket Municipal Airport
+KMLU,Monroe Regional Airport
+KMMH,Mammoth Yosemite Airport
+KMMI,McMinn County Airport
+KMML,Southwest Minnesota Regional Airport - Marshall/Ryan Field
+KMMS,Selfs Airport
+KMMT,Mc Entire Joint National Guard Base
+KMMU,Morristown Municipal Airport
+KMNM,Menominee–Marinette Twin County Airport
+KMNN,Marion Municipal Airport
+KMOB,Mobile Regional Airport
+KMOD,Modesto City Co-Harry Sham Field
+KMOP,Mount Pleasant Municipal Airport
+KMOR,Morristown Regional Airport
+KMOT,Minot International Airport
+KMOX,Morris Municipal Airport Charlie Schmidt Field
+KMPI,Mariposa Yosemite Airport
+KMPJ,Petit Jean Park Airport
+KMPO,Pocono Mountains Municipal Airport
+KMPR,Mc Pherson Airport
+KMPV,Edward F Knapp State Airport
+KMPZ,Mount Pleasant Municipal Airport
+KMQB,Macomb Municipal Airport
+KMQI,Dare County Regional Airport
+KMQS,Chester County G O Carlson Airport
+KMQW,Telfair Wheeler Airport
+KMQY,Smyrna Airport
+KMRB,Eastern WV Regional Airport/Shepherd Field
+KMRC,Maury County Airport
+KMRF,Marfa Municipal Airport
+KMRN,Foothills Regional Airport
+KMRY,Monterey Peninsula Airport
+KMSL,Northwest Alabama Regional Airport
+KMSN,Dane County Regional Truax Field
+KMSO,Missoula International Airport
+KMSP,Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field
+KMSS,Massena International Airport Richards Field
+KMSV,Sullivan County International Airport
+KMSY,Louis Armstrong New Orleans International Airport
+KMTC,Selfridge Air National Guard Base Airport
+KMTH,The Florida Keys Marathon Airport
+KMTJ,Montrose Regional Airport
+KMTN,Martin State Airport
+KMTO,Coles County Memorial Airport
+KMTP,Montauk Airport
+KMTW,Manitowoc County Airport
+KMUI,Muir Army Air Field (Fort Indiantown Gap) Airport
+KMUL,Spence Airport
+KMUO,Mountain Home Air Force Base
+KMUT,Muscatine Municipal Airport
+KMVC,Monroe County Aeroplex Airport
+KMVE,Montevideo Chippewa County Airport
+KMVL,Morrisville-Stowe State Airport
+KMVN,Mount Vernon Outland Airport
+KMVY,Martha's Vineyard Airport
+KMWA,Veterans Airport of Southern Illinois
+KMWC,Lawrence J Timmerman Airport
+KMWH,Grant County International Airport
+KMWL,Mineral Wells Regional Airport
+KMWM,Windom Municipal Airport
+KMWO,Middletown Regional Airport
+KMXA,Manila Municipal Airport
+KMXF,Maxwell Air Force Base
+KMXO,Monticello Regional Airport
+KMYF,Montgomery-Gibbs Executive Airport
+KMYL,McCall Municipal Airport
+KMYR,Myrtle Beach International Airport
+KMYV,Yuba County Airport
+KMZJ,Pinal Airpark
+KMZZ,Marion Municipal Airport
+KNBG,New Orleans NAS JRB/Alvin Callender Field
+KNBJ,Naval Outlying Field Barin
+KNDY,Dahlgren Naval Surface Warfare Center Airport
+KNEL,Lakehurst Maxfield Field Airport
+KNEN,Whitehouse Naval Outlying Field
+KNEW,Lakefront Airport
+KNFL,Fallon Naval Air Station
+KNFW,NAS Fort Worth JRB / Carswell Field
+KNGP,Naval Air Station Corpus Christi Truax Field
+KNGU,Norfolk Naval Station (Chambers Field)
+KNGW,Cabaniss Field Naval Outlying Landing Field
+KNHK,Patuxent River Naval Air Station (Trapnell Field)
+KNIP,Jacksonville Naval Air Station (Towers Field)
+KNJK,El Centro NAF Airport (Vraciu Field)
+KNKX,Miramar Marine Corps Air Station - Mitscher Field
+KNLC,Lemoore Naval Air Station (Reeves Field) Airport
+KNPA,Naval Air Station Pensacola Forrest Sherman Field
+KNQA,Millington-Memphis Airport
+KNQI,Kingsville Naval Air Station
+KNQX,Naval Air Station Key West/Boca Chica Field
+KNRB,Naval Station Mayport / Admiral David L McDonald Field
+KNRS,Naval Outlying Field Imperial Beach (Ream Field)
+KNSE,Whiting Field Naval Air Station - North
+KNTD,Point Mugu Naval Air Station (Naval Base Ventura Co)
+KNTU,Oceana Naval Air Station
+KNUQ,Moffett Federal Airfield
+KNUW,Whidbey Island Naval Air Station (Ault Field)
+KNVD,Nevada Municipal Airport
+KNYG,Quantico Marine Corps Airfield / Turner Field
+KNYL,Yuma International Airport / Marine Corps Air Station Yuma
+KNZY,North Island Naval Air Station-Halsey Field
+KOAJ,Albert J Ellis Airport
+KOAK,San Francisco Bay Oakland International Airport
+KOAR,Marina Municipal Airport
+KOBE,Okeechobee County Airport
+KOCF,Ocala International Airport - Jim Taylor Field
+KOCH,A L Mangham Jr. Regional Airport
+KOCW,Warren Field
+KOEO,L O Simenstad Municipal Airport
+KOFF,Offutt Air Force Base
+KOFK,Karl Stefan Memorial Airport
+KOGA,Ogallala Municipal Airport Searle Field
+KOGB,Orangeburg Municipal Airport
+KOGD,Ogden Hinckley Airport
+KOGS,Ogdensburg International Airport
+KOIC,Lt Warren Eaton Airport
+KOJC,Johnson County Executive Airport
+KOKB,Oceanside Municipal Airport
+KOKC,Will Rogers World Airport
+KOKH,AJ Eisenberg Airport
+KOKK,Kokomo Municipal Airport
+KOKM,Okmulgee Regional Airport
+KOKS,Garden County Airport/King Rhiley Field
+KOKV,Winchester Regional Airport
+KOLD,Dewitt Field - Old Town Municipal Airport
+KOLE,Cattaraugus County-Olean Airport
+KOLF,L M Clayton Airport
+KOLM,Olympia Regional Airport
+KOLS,Nogales International Airport
+KOLU,Columbus Municipal Airport
+KOLV,Olive Branch Airport
+KOLY,Olney Noble Airport
+KOMA,Eppley Airfield
+KOMK,Omak Airport
+KONA,Winona Municipal Airport Max Conrad Field
+KONL,O'Neill Municipal Airport–John L Baker Field
+KONM,Socorro Municipal Airport
+KONO,Ontario Municipal Airport
+KONP,Newport Municipal Airport
+KONT,Ontario International Airport
+KONY,Olney Municipal Airport
+KOOA,Oskaloosa Municipal Airport
+KOPF,Miami-Opa Locka Executive Airport
+KOPL,St Landry Parish Ahart Field
+KOQU,Quonset State Airport
+KORD,Chicago O'Hare International Airport
+KORF,Norfolk International Airport
+KORH,Worcester Regional Airport
+KORL,Orlando Executive Airport
+KORS,Orcas Island Airport
+KOSA,Mount Pleasant Regional Airport
+KOSC,Oscoda Wurtsmith Airport
+KOSH,Wittman Regional Airport
+KOSU,The Ohio State University Airport - Don Scott Field
+KOSX,Kosciusko Attala County Airport
+KOTG,Worthington Municipal Airport
+KOTH,Southwest Oregon Regional Airport
+KOTM,Ottumwa Regional Airport
+KOUN,University of Oklahoma Westheimer Airport
+KOVE,Oroville Municipal Airport
+KOWA,Owatonna Degner Regional Airport
+KOWB,Owensboro Daviess County Airport
+KOWD,Norwood Memorial Airport
+KOWK,Central Maine/Norridgewock Airport
+KOXB,Ocean City Municipal Airport
+KOXC,Waterbury Oxford Airport
+KOXD,Miami University Airport
+KOXR,Oxnard Airport
+KOYM,St Marys Municipal Airport
+KOZA,Ozona Municipal Airport
+KOZR,Cairns AAF (Fort Rucker) Air Field
+KPAE,Seattle Paine Field International Airport
+KPAH,Barkley Regional Airport
+KPAM,Tyndall Air Force Base
+KPAN,Payson Airport
+KPAO,Palo Alto Airport
+KPBF,"Pine Bluff Regional Airport, Grider Field"
+KPBG,Plattsburgh International Airport
+KPBI,Palm Beach International Airport
+KPBX,Pike County Airport Hatcher Field
+KPDC,Prairie Du Chien Municipal Airport
+KPDK,DeKalb Peachtree Airport
+KPDT,Eastern Oregon Regional Airport at Pendleton
+KPDX,Portland International Airport
+KPEQ,Pecos Municipal Airport
+KPFC,Pacific City State Airport
+KPGA,Page Municipal Airport
+KPGD,Punta Gorda Airport
+KPGR,Kirk Field
+KPGV,Pitt-Greenville Airport
+KPHD,Harry Clever Field
+KPHF,Newport News Williamsburg International Airport
+KPHH,Robert F Swinnie Airport
+KPHK,Palm Beach County Glades Airport
+KPHL,Philadelphia International Airport
+KPHN,St Clair County International Airport
+KPHP,Philip Airport
+KPHT,Henry County Airport
+KPHX,Phoenix Sky Harbor International Airport
+KPIA,General Wayne A. Downing Peoria International Airport
+KPIB,Hattiesburg Laurel Regional Airport
+KPIE,St. Petersburg Clearwater International Airport
+KPIH,Pocatello Regional Airport
+KPIM,Harris County Airport
+KPIR,Pierre Regional Airport
+KPIT,Pittsburgh International Airport
+KPKB,Mid Ohio Valley Regional Airport
+KPKD,Park Rapids Municipal Airport Konshok Field
+KPKF,Park Falls Municipal Airport
+KPLK,M. Graham Clark Downtown Airport
+KPLN,Pellston Regional Airport of Emmet County Airport
+KPLR,St Clair County Airport
+KPMB,Pembina Municipal Airport
+KPMD,Palmdale Regional Airport / USAF Plant 42 Airport
+KPMH,Greater Portsmouth Regional Airport
+KPMP,Pompano Beach Airpark
+KPNA,Ralph Wenz Field
+KPNC,Ponca City Regional Airport
+KPNE,Northeast Philadelphia Airport
+KPNN,Princeton Municipal Airport
+KPNS,Pensacola International Airport
+KPOB,Pope Field
+KPOC,Brackett Field
+KPOE,Polk Army Air Field
+KPOF,Poplar Bluff Municipal Airport
+KPOH,Pocahontas Municipal Airport
+KPOU,Dutchess County Airport
+KPOY,Powell Municipal Airport
+KPPA,Perry Lefors Field
+KPPF,Tri-City Airport
+KPPO,La Porte Municipal Airport
+KPQI,Presque Isle International Airport
+KPQL,Trent Lott International Airport
+KPRB,Paso Robles Municipal Airport
+KPRC,Prescott International Airport - Ernest A. Love Field
+KPRO,Perry Municipal Airport
+KPRX,Cox Field
+KPSB,Mid-State Regional Airport
+KPSC,Tri Cities Airport
+KPSF,Pittsfield Municipal Airport
+KPSK,New River Valley Airport
+KPSM,Portsmouth International at Pease Airport
+KPSN,Palestine Municipal Airport
+KPSO,Stevens Field
+KPSP,Palm Springs International Airport
+KPSX,Palacios Municipal Airport
+KPTB,Dinwiddie County Airport
+KPTK,Oakland County International Airport
+KPTN,Harry P Williams Memorial Airport
+KPTS,Atkinson Municipal Airport
+KPTT,Pratt Regional Airport
+KPTV,Porterville Municipal Airport
+KPTW,Heritage Field
+KPUB,Pueblo Memorial Airport
+KPUC,Carbon County Regional Airport / Buck Davis Field
+KPUW,Pullman-Moscow Regional Airport
+KPVC,Provincetown Municipal Airport
+KPVD,Theodore Francis Green State Airport
+KPVF,Placerville Airport
+KPVG,Hampton Roads Executive Airport
+KPVU,Provo-Utah Lake International Airport
+KPVW,Hale County Airport
+KPWA,Wiley Post Airport
+KPWD,Sher-Wood Airport
+KPWM,Portland International Jetport
+KPWT,Bremerton National Airport
+KPYM,Plymouth Municipal Airport
+KRAC,John H Batten Airport
+KRAL,Riverside Municipal Airport
+KRAP,Rapid City Regional Airport
+KRBD,Dallas Executive Airport
+KRBG,Roseburg Regional Airport
+KRBL,Red Bluff Municipal Airport
+KRBW,Lowcountry Regional Airport
+KRCA,Ellsworth Air Force Base
+KRCK,H H Coffield Regional Airport
+KRCR,Fulton County Airport
+KRCT,Nartron Field
+KRDD,Redding Municipal Airport
+KRDG,Reading Regional Airport (Carl A Spaatz Field)
+KRDM,Roberts Field
+KRDR,Grand Forks Air Force Base
+KRDU,Raleigh Durham International Airport
+KREO,Rome State Airport
+KRFD,Chicago Rockford International Airport
+KRFG,Rooke Field
+KRHI,Rhinelander Oneida County Airport
+KRHV,Reid-Hillview Airport of Santa Clara County
+KRIC,Richmond International Airport
+KRID,Richmond Municipal Airport
+KRIF,Richfield Municipal Airport
+KRIL,Garfield County Regional Airport
+KRIR,Flabob Airport
+KRIV,March Air Reserve Base
+KRIW,Central Wyoming Regional Airport
+KRKD,Knox County Regional Airport
+KRKP,Aransas County Airport
+KRKR,Robert S Kerr Airport
+KRKS,Southwest Wyoming Regional Airport
+KRKW,Rockwood Municipal Airport
+KRLD,Richland Airport
+KRME,Griffiss International Airport
+KRMG,Richard B Russell Airport
+KRMN,Stafford Regional Airport
+KRNC,Warren County Memorial Airport
+KRND,Randolph Air Force Base
+KRNH,New Richmond Regional Airport
+KRNO,Reno Tahoe International Airport
+KRNT,Renton Municipal Airport
+KROA,Roanoke–Blacksburg Regional Airport
+KROC,Frederick Douglass Greater Rochester International Airport
+KROG,Rogers Municipal Airport-Carter Field
+KROW,Roswell Air Center Airport
+KROX,Roseau Municipal Rudy Billberg Field
+KRPD,Rice Lake Regional Airport - Carl's Field
+KRPX,Roundup Airport
+KRQB,Roben Hood Airport
+KRRL,Merrill Municipal Airport
+KRRT,Warroad International Memorial Airport
+KRSL,Russell Municipal Airport
+KRSN,Ruston Regional Airport
+KRST,Rochester International Airport
+KRSW,Southwest Florida International Airport
+KRTN,Raton Municipal Airport / Crews Field
+KRUQ,Mid-Carolina Regional Airport
+KRUT,Rutland - Southern Vermont Regional Airport
+KRVL,Mifflin County Airport
+KRVS,Tulsa Riverside Airport
+KRWF,Redwood Falls Municipal Airport
+KRWI,Rocky Mount Wilson Regional Airport
+KRWL,Rawlins Municipal Airport/Harvey Field
+KRXE,Rexburg Madison County Airport
+KRZL,Jasper County Airport
+KSAA,Shively Field
+KSAC,Sacramento Executive Airport
+KSAD,Safford Regional Airport
+KSAF,Santa Fe Municipal Airport
+KSAN,San Diego International Airport
+KSAR,Sparta Community Airport - Hunter Field
+KSAS,Salton Sea Airport
+KSAT,San Antonio International Airport
+KSAV,Savannah Hilton Head International Airport
+KSAW,Marquette/Sawyer International Airport
+KSBA,Santa Barbara Municipal Airport
+KSBD,San Bernardino International Airport
+KSBM,Sheboygan County Memorial Airport
+KSBN,South Bend Regional Airport
+KSBP,San Luis County Regional Airport
+KSBS,Steamboat Springs Bob Adams Field
+KSBX,Shelby Airport
+KSBY,Salisbury Ocean City Wicomico Regional Airport
+KSCB,Scribner State Airport
+KSCH,Schenectady County Airport
+KSCK,Stockton Metropolitan Airport
+KSDF,Louisville Muhammad Ali International Airport
+KSDL,Scottsdale Airport
+KSDM,Brown Field Municipal Airport
+KSDY,Sidney - Richland Regional Airport
+KSEA,Seattle–Tacoma International Airport
+KSEE,Gillespie Field
+KSEF,Sebring Regional Airport
+KSEG,Penn Valley Airport
+KSEM,Craig Field
+KSEP,Stephenville Clark Regional Airport
+KSER,Freeman Municipal Airport
+KSEZ,Sedona Airport
+KSFB,Orlando Sanford International Airport
+KSFF,Felts Field
+KSFM,Sanford Seacoast Regional Airport
+KSFO,San Francisco International Airport
+KSFZ,North Central State Airport
+KSGF,Springfield Branson National Airport
+KSGH,Springfield-Beckley Municipal Airport
+KSGJ,Northeast Florida Regional Airport
+KSGR,Sugar Land Regional Airport
+KSGT,Stuttgart Municipal Airport / Carl Humphrey Field
+KSGU,St George Regional Airport
+KSHD,Shenandoah Valley Regional Airport
+KSHN,Sanderson Field
+KSHR,Sheridan County Airport
+KSHV,Shreveport Regional Airport
+KSIK,Sikeston Memorial Municipal Airport
+KSIV,Sullivan County Airport
+KSIY,Siskiyou County Airport
+KSJC,Norman Y. Mineta San Jose International Airport
+KSJN,St Johns Industrial Air Park
+KSJT,San Angelo Regional Mathis Field
+KSKA,Fairchild Air Force Base
+KSKF,Lackland Air Force Base
+KSKX,Taos Regional Airport
+KSLB,Storm Lake Municipal Airport
+KSLC,Salt Lake City International Airport
+KSLE,Salem-Willamette Valley Airport/McNary Field
+KSLG,Smith Field
+KSLK,Adirondack Regional Airport
+KSLN,Salina Municipal Airport
+KSLO,Salem–Leckrone Airport
+KSLR,Sulphur Springs Municipal Airport
+KSMD,Smith Field
+KSME,Lake Cumberland Regional Airport
+KSMF,Sacramento International Airport
+KSMN,Lemhi County Airport
+KSMO,Santa Monica Municipal Airport
+KSMS,Sumter Airport
+KSMX,Santa Maria Public Airport Captain G Allan Hancock Field
+KSNA,John Wayne Orange County International Airport
+KSNK,Winston Field
+KSNL,Shawnee Regional Airport
+KSNS,Salinas Municipal Airport
+KSNY,Sidney Municipal Airport Lloyd W Carr Field
+KSOP,Moore County Airport
+KSOW,Show Low Regional Airport
+KSPA,Spartanburg Downtown Memorial Airport
+KSPF,Black Hills Airport-Clyde Ice Field
+KSPG,Albert Whitted Airport
+KSPI,Abraham Lincoln Capital Airport
+KSPS,Wichita Falls Municipal Airport / Sheppard Air Force Base
+KSPW,Spencer Municipal Airport
+KSQI,Whiteside County Airport - Joseph H Bittorf Field
+KSQL,San Carlos Airport
+KSRC,Searcy Municipal Airport
+KSRQ,Sarasota Bradenton International Airport
+KSRR,Sierra Blanca Regional Airport
+KSSC,Shaw Air Force Base
+KSSF,Stinson Municipal Airport
+KSSI,St Simons Island Airport
+KSTC,Saint Cloud Regional Airport
+KSTE,Stevens Point Municipal Airport
+KSTJ,Rosecrans Memorial Airport
+KSTK,Sterling Municipal Airport
+KSTL,St. Louis Lambert International Airport
+KSTP,Saint Paul Downtown Holman Field
+KSTS,Charles M. Schulz Sonoma County Airport
+KSUA,Witham Field
+KSUD,Stroud Municipal Airport
+KSUE,Door County Cherryland Airport
+KSUN,Friedman Memorial Airport
+KSUS,Spirit of St Louis Airport
+KSUU,Travis Air Force Base
+KSUW,Richard I Bong Memorial Airport
+KSUX,Sioux Gateway Airport / Brigadier General Bud Day Field
+KSVC,Grant County Airport
+KSVE,Susanville Municipal Airport
+KSVH,Statesville Regional Airport
+KSVN,Hunter Army Air Field
+KSWF,New York Stewart International Airport
+KSWO,Stillwater Regional Airport
+KSWW,Avenger Field
+KSYI,Bomar Field Shelbyville Municipal Airport
+KSYN,Stanton Airfield
+KSYR,Syracuse Hancock International Airport
+KSYV,Sylvester Airport
+KSZL,Whiteman Air Force Base
+KSZN,Santa Cruz Island Airport
+KSZP,Santa Paula Airport
+KTAD,Perry Stokes Airport
+KTBN,Waynesville-St. Robert Regional Airport-Forney Field
+KTBR,Statesboro Bulloch County Airport
+KTCC,Tucumcari Municipal Airport
+KTCL,Tuscaloosa National Airport
+KTCM,McChord Air Force Base
+KTCS,Truth or Consequences Municipal Airport
+KTDO,Ed Carlson Memorial Field South Lewis County Airport
+KTDW,Tradewind Airport
+KTDZ,Toledo Executive Airport
+KTEB,Teterboro Airport
+KTEX,Telluride Regional Airport
+KTHA,Tullahoma Regional Airport William Northern Field
+KTHM,Thompson Falls Airport
+KTHV,York Airport
+KTIK,Tinker Air Force Base
+KTIW,Tacoma Narrows Airport
+KTIX,Space Coast Regional Airport
+KTKX,Kennett Memorial Airport
+KTLH,Tallahassee Regional Airport
+KTLR,Mefford Field
+KTMA,Henry Tift Myers Airport
+KTMB,Miami Executive Airport
+KTMK,Tillamook Airport
+KTNP,Twentynine Palms Airport
+KTNT,Dade Collier Training and Transition Airport
+KTNU,Newton Municipal Airport
+KTNX,Tonopah Test Range Airport
+KTOA,Zamperini Field
+KTOC,Toccoa Airport - R.G. Letourneau Field
+KTOI,Troy Municipal Airport at N Kenneth Campbell Field
+KTOL,Eugene F. Kranz Toledo Express Airport
+KTOP,Philip Billard Municipal Airport
+KTOR,Torrington Municipal Airport
+KTPA,Tampa International Airport
+KTPF,Peter O Knight Airport
+KTPH,Tonopah Airport
+KTPL,Draughon Miller Central Texas Regional Airport
+KTRI,Tri-Cities Regional TN/VA Airport
+KTRK,Truckee Tahoe Airport
+KTRL,Terrell Municipal Airport
+KTRM,Jacqueline Cochran Regional Airport
+KTRX,Trenton Municipal Airport
+KTSP,Tehachapi Municipal Airport
+KTTD,Portland Troutdale Airport
+KTTN,Trenton Mercer Airport
+KTUL,Tulsa International Airport
+KTUP,Tupelo Regional Airport
+KTUS,Tucson International Airport / Morris Air National Guard Base
+KTVC,Cherry Capital Airport
+KTVF,Thief River Falls Regional Airport
+KTVI,Thomasville Regional Airport
+KTVL,Lake Tahoe Airport
+KTWF,Joslin Field Magic Valley Regional Airport
+KTXK,Texarkana Regional Airport (Webb Field)
+KTYL,Taylor Airport
+KTYR,Tyler Pounds Regional Airport
+KTYS,McGhee Tyson Airport
+KUBS,Columbus Lowndes County Airport
+KUCY,Everett-Stewart Regional Airport
+KUDD,Bermuda Dunes Airport
+KUES,Waukesha County Airport
+KUGN,Waukegan National Airport
+KUIL,Quillayute Airport
+KUIN,Quincy Regional Airport Baldwin Field
+KUKF,Wilkes County Airport
+KUKI,Ukiah Municipal Airport
+KUKT,Quakertown Airport
+KULM,New Ulm Municipal Airport
+KUNI,Ohio University Airport
+KUNU,Dodge County Airport
+KUNV,State College Regional Airport
+KUOS,Franklin County Airport
+KUOX,University Oxford Airport
+KUTA,Tunica Municipal Airport
+KUTS,Huntsville Regional Airport
+KUUU,Newport State Airport
+KUVA,Garner Field
+KUZA,Rock Hill - York County Airport
+KVAD,Moody Air Force Base
+KVAY,South Jersey Regional Airport
+KVBG,Vandenberg Space Force Base
+KVBT,Bentonville Municipal-Louise M Thaden Field
+KVCT,Victoria Regional Airport
+KVCV,Southern California Logistics Airport
+KVDI,Vidalia Regional Airport
+KVEL,Vernal Regional Airport
+KVGT,North Las Vegas Metropolitan International Airport
+KVHN,Culberson County Airport
+KVIH,Rolla National Airport
+KVIS,Visalia Municipal Airport
+KVJI,Virginia Highlands Airport
+KVKS,Vicksburg Municipal Airport
+KVLA,Vandalia Municipal Airport
+KVLD,Valdosta Regional Airport
+KVNC,Venice Municipal Airport
+KVNY,Van Nuys Airport
+KVOK,Volk Field
+KVPS,Destin-Fort Walton Beach Airport
+KVPZ,Porter County Municipal Airport
+KVQQ,Cecil Airport
+KVRB,Vero Beach Regional Airport
+KVSF,Hartness State Airport
+KVTN,Miller Field
+KVYS,Illinois Valley Regional Airport Walter A Duncan Field
+KWAL,Wallops Flight Facility Airport
+KWAY,Greene County Airport
+KWBW,Wilkes Barre Wyoming Valley Airport
+KWDG,Enid Woodring Regional Airport
+KWDR,Barrow County Airport
+KWEA,Parker County Airport
+KWHP,Whiteman Airport
+KWJF,General William J Fox Airfield
+KWLD,Strother Field
+KWLW,Willows Glenn County Airport
+KWMC,Winnemucca Municipal Airport
+KWRB,Robins Air Force Base
+KWRI,Mc Guire Air Force Base
+KWRL,Worland Municipal Airport
+KWST,Westerly State Airport
+KWVI,Watsonville Municipal Airport
+KWVL,Waterville Robert Lafleur Airport
+KWWD,Cape May County Airport
+KWWR,West Woodward Airport
+KWYS,Yellowstone Airport
+KXNA,Northwest Arkansas National Airport
+KXWA,Williston Basin International Airport
+KYKM,Yakima Air Terminal McAllister Field
+KYKN,Chan Gurney Municipal Airport
+KYNG,Youngstown Warren Regional Airport
+KZPH,Zephyrhills Municipal Airport
+KZZV,Zanesville Municipal Airport
+LATI,Tirana International Airport Mother Teresa
+LBAM,Alfa-Metal Airfield
+LBBG,Burgas Airport
+LBGO,Gorna Oryahovitsa Airport
+LBPD,Plovdiv International Airport
+LBRS,Ruse Airport
+LBSF,Sofia Airport
+LBSZ,Stara Zagora Airport
+LBWN,Varna Airport
+LCEN,Nicosia (Lefkoşa) Ercan International Airport
+LCGK,Lefkoniko Airport / Geçitkale Air Base
+LCLK,Larnaca International Airport
+LCPH,Paphos International Airport
+LCRA,RAF Akrotiri
+LDDU,Dubrovnik Ruđer Bošković Airport
+LDLO,Lošinj Airport
+LDOS,Osijek Airport
+LDPL,Pula Airport
+LDRI,Rijeka Airport
+LDSB,Brač Airport
+LDSP,Split Airport
+LDZA,Zagreb Franjo Tuđman International Airport
+LDZD,Zadar Airport
+LEAB,Albacete Airport / Los Llanos Air Base
+LEAL,Alicante-Elche Miguel Hernández Airport
+LEAM,Almería Airport
+LEAS,Asturias Airport
+LEBA,Córdoba Airport
+LEBB,Bilbao Airport
+LEBG,Burgos Airport
+LEBL,Josep Tarradellas Barcelona-El Prat Airport
+LEBZ,Badajoz Airport
+LECH,Castellón-Costa Azahar Airport
+LECO,A Coruña Airport
+LEDA,Lleida-Alguaire Airport
+LEGE,Girona-Costa Brava Airport
+LEGR,F.G.L. Airport Granada-Jaén Airport
+LEHC,Huesca-Pirineos Airport
+LEIB,Ibiza Airport
+LEJR,Jerez Airport
+LELC,San Javier Airport
+LELN,León Airport
+LEMD,Adolfo Suárez Madrid–Barajas Airport
+LEMG,Málaga-Costa del Sol Airport
+LEMH,Menorca Airport
+LEMI,Región de Murcia International Airport
+LEMO,Moron Air Base
+LEPA,Palma de Mallorca Airport
+LEPP,Pamplona Airport
+LERL,Ciudad Real International Airport
+LERP,Aeródromo de Herrera de Pisuerga
+LERS,Reus Airport
+LERT,Rota Naval Station Airport
+LESA,Salamanca Airport
+LESB,Son Bonet Airfield
+LESL,Sant Lluis Airfield
+LESO,San Sebastián Airport
+LEST,Santiago-Rosalía de Castro Airport
+LESU,Pirineus - la Seu d'Urgel Airport
+LETL,Teruel Airport
+LETO,Madrid–Torrejón Airport / Torrejón Air Base
+LEVC,Valencia Airport
+LEVD,Valladolid Airport
+LEVT,Vitoria Airport
+LEVX,Vigo Airport
+LEXJ,Seve Ballesteros-Santander Airport
+LEZG,Zaragoza Airport
+LEZL,Sevilla Airport
+LFAB,Dieppe-Saint-Aubin Airport
+LFAC,Calais-Dunkerque Airport
+LFAQ,Albert-Picardie Airport
+LFAT,Le Touquet-Côte d'Opale Airport
+LFBA,Agen-La Garenne Airport
+LFBD,Bordeaux-Mérignac Airport
+LFBE,Bergerac Dordogne Périgord Airport
+LFBG,Cognac-Châteaubernard (BA 709) Air Base
+LFBH,La Rochelle-Île de Ré Airport
+LFBI,Poitiers-Biard Airport
+LFBK,Montluçon-Guéret Airport
+LFBL,Limoges Airport
+LFBN,Niort - Marais Poitevin Airport
+LFBO,Toulouse-Blagnac Airport
+LFBP,Pau Pyrénées Airport
+LFBT,Tarbes-Lourdes-Pyrénées Airport
+LFBU,Angoulême-Brie-Champniers Airport
+LFBX,Périgueux-Bassillac Airport
+LFBZ,Biarritz-Anglet-Bayonne Airport
+LFCC,Aérodrome de Cahors-Lalbenque
+LFCI,Albi-Le Séquestre Airport
+LFCK,Castres-Mazamet Airport
+LFCQ,Aérodrome de Graulhet-Montdragon
+LFCR,Rodez–Aveyron Airport
+LFCY,Royan-Médis Airport
+LFDG,Aérodrome de Gaillac - Lisle-sur-Tarn
+LFDN,Rochefort-Saint-Agnant (BA 721) Airport
+LFEY,Île d'Yeu Airport
+LFGA,Colmar-Houssen Airport
+LFGJ,Dole-Jura Airport
+LFHM,Megève Altiport
+LFHO,Aubenas-South Ardèche Airport
+LFHP,Le Puy-Loudes Airfield
+LFHS,Bourg-Ceyzériat Airfield
+LFHU,L'Alpe d'Huez - Henri Giraud Altiport
+LFHY,Moulins-Montbeugny Airfield
+LFJL,Metz-Nancy-Lorraine Airport
+LFJR,Angers-Loire Airport
+LFKB,Bastia-Poretta Airport
+LFKC,Calvi-Sainte-Catherine Airport
+LFKF,Figari Sud-Corse Airport
+LFKJ,Ajaccio-Napoléon Bonaparte Airport
+LFKO,Propriano Airport
+LFKS,Solenzara (BA 126) Air Base
+LFKX,Méribel Altiport
+LFLA,Auxerre-Branches Airport
+LFLB,Chambéry Savoie Mont Blanc Airport
+LFLC,Clermont-Ferrand Auvergne Airport
+LFLD,Bourges Airport
+LFLJ,Courchevel Altiport
+LFLL,Lyon Saint-Exupéry Airport
+LFLN,Saint-Yan Airport
+LFLO,Roanne-Renaison Airport
+LFLP,Annecy Haute-Savoie Mont Blanc Airport
+LFLS,Grenoble Alpes Isère Airport
+LFLU,Valence-Chabeuil Airport
+LFLV,Vichy-Charmeil Airport
+LFLW,Aurillac Airport
+LFLX,Châteauroux-Déols Marcel Dassault Airport
+LFLY,Lyon Bron Airport
+LFMA,Aix-Les Milles Airfield
+LFMD,Cannes-Mandelieu Airport
+LFMH,Saint-Étienne-Bouthéon Airport
+LFMI,Istres-Le Tubé Air Base
+LFMK,Carcassonne Airport
+LFML,Marseille Provence Airport
+LFMN,Nice-Côte d'Azur Airport
+LFMP,Perpignan-Rivesaltes (Llabanère) Airport
+LFMQ,Le Castellet Airport
+LFMR,Barcelonnette - Saint-Pons Airfield
+LFMT,Montpellier-Méditerranée Airport
+LFMU,Béziers-Vias Airport
+LFMV,Avignon-Caumont Airport
+LFNA,Gap-Tallard Airfield
+LFNB,Mende-Brenoux Airfield
+LFNC,Mont-Dauphin Saint-Crépin Airfield
+LFOB,Paris-Beauvais Airport
+LFOE,Évreux-Fauville (BA 105) Air Base
+LFOH,Le Havre-Octeville Airport
+LFOK,Châlons-Vatry Airport
+LFOO,Les Sables-d'Olonne Talmont Airport
+LFOP,Rouen Vallée de Seine Airport
+LFOT,Tours Val de Loire Airport
+LFOU,Cholet Le Pontreau Airfield
+LFOV,Laval-Entrammes Airport
+LFOZ,Orléans–Saint-Denis-de-l'Hôtel Airport
+LFPC,Creil Air Base
+LFPF,Beynes Thiverval Airfield
+LFPG,Charles de Gaulle International Airport
+LFPK,Coulommiers-Voisins Aerodrome
+LFPL,Lognes Emerainville Airfield
+LFPN,Toussus-le-Noble Airport
+LFPO,Paris-Orly Airport
+LFPX,Chavenay-Villepreux Airfield
+LFQG,Nevers-Fourchambault Airport
+LFQQ,Lille Airport
+LFQT,Merville-Calonne Airport
+LFQV,Charleville-Mézières Ardennes-Etienne Riché Airfield
+LFRB,Brest Bretagne Airport
+LFRC,Cherbourg-Maupertus Airport
+LFRD,Dinard-Pleurtuit-Saint-Malo Airport
+LFRE,La Baule-Escoublac Airport
+LFRF,Granville Airport
+LFRG,Deauville-Normandie Airport
+LFRH,Lorient South Brittany (Bretagne Sud) Airport
+LFRI,La Roche-sur-Yon Airport
+LFRJ,Landivisiau Air Base
+LFRK,Caen-Carpiquet Airport
+LFRM,Le Mans-Arnage Airport
+LFRN,Rennes-Saint-Jacques Airport
+LFRO,Lannion-Côte de Granit Airport
+LFRQ,Quimper-Cornouaille Airport
+LFRS,Nantes Atlantique Airport
+LFRT,Saint-Brieuc-Armor Airport
+LFRU,Morlaix-Ploujean Airport
+LFRV,Vannes-Meucon Airport
+LFRZ,Saint-Nazaire-Montoir Airport
+LFSB,EuroAirport Basel-Mulhouse-Freiburg
+LFSD,Dijon-Bourgogne Airport
+LFSG,Épinal-Mirecourt Airport
+LFSL,Brive-Souillac
+LFSN,Nancy-Essey Airport
+LFST,Strasbourg Airport
+LFTH,Toulon-Hyères Airport
+LFTW,Nîmes-Arles-Camargue Airport
+LFTZ,La Môle-Saint-Tropez Airport
+LFVM,Miquelon Airport
+LFVP,St Pierre Airport
+LGAD,Andravida Air Base
+LGAL,Alexandroupoli Democritus Airport
+LGAV,Athens Eleftherios Venizelos International Airport
+LGBL,Nea Anchialos National Airport
+LGHI,Chios Island National Airport
+LGIK,Ikaria Airport
+LGIO,Ioannina King Pyrrhus National Airport
+LGIR,Heraklion International Nikos Kazantzakis Airport
+LGKA,Kastoria National Airport Aristotle
+LGKC,Kithira Airport
+LGKF,Kefallinia Airport
+LGKJ,Kastelorizo Airport
+LGKL,Kalamata Airport
+LGKO,Kos Airport
+LGKP,Karpathos Airport
+LGKR,Corfu Ioannis Kapodistrias International Airport
+LGKS,Kasos Airport
+LGKV,Kavala Alexander the Great International Airport
+LGKY,Kalymnos Airport
+LGKZ,Kozani National Airport Filippos
+LGLE,Leros Airport
+LGLM,Limnos Airport
+LGLR,Larissa Air Base
+LGMK,Mykonos Island National Airport
+LGML,Milos Airport
+LGMT,Mytilene International Airport
+LGNX,Naxos Island National Airport
+LGPA,Paros National Airport
+LGPL,Astypalaia Airport
+LGPZ,Aktion National Airport
+LGRP,Diagoras Airport
+LGRX,Patras Araxos Agamemnon Airport
+LGSA,Chania International Airport
+LGSK,Skiathos Island National Airport
+LGSM,Samos Airport
+LGSO,Syros Airport
+LGSP,Sparti Airfield
+LGSR,Santorini Airport
+LGST,Sitia Airport
+LGSY,Skiros Airport
+LGTS,Thessaloniki Macedonia International Airport
+LGZA,Zakynthos International Airport Dionysios Solomos
+LHBP,Budapest Liszt Ferenc International Airport
+LHDC,Debrecen International Airport
+LHPP,Pécs-Pogány Airport
+LHSM,Hévíz–Balaton Airport
+LHZA,Zalaegerszeg Andráshida Airfield
+LHZK,Zalakaros Airfield
+LIAP,L'Aquila–Preturo Airport
+LIBC,Crotone Sant'Anna Pythagoras Airport
+LIBD,Bari Karol Wojtyła International Airport
+LIBF,Foggia Gino Lisa Airport
+LIBG,Taranto-Grottaglie Marcello Arlotta Airport
+LIBN,Lecce Galatina Air Base / Galatina Fortunato Cesari Airport
+LIBP,Abruzzo Airport
+LIBR,Brindisi Airport
+LICA,Lamezia Terme Sant'Eufemia International Airport
+LICB,Comiso Airport
+LICC,Catania-Fontanarossa Airport
+LICD,Lampedusa Airport
+LICG,Pantelleria Airport
+LICJ,Falcone–Borsellino Airport
+LICR,Reggio Calabria Airport
+LICT,Vincenzo Florio Airport Trapani-Birgi
+LICZ,Sigonella Navy Air Base
+LIDB,Belluno Arturo dell'Oro Airport
+LIDR,Ravenna Airport
+LIEA,Alghero-Fertilia Airport
+LIED,Decimomannu Air Base
+LIEE,Cagliari Elmas Airport
+LIEO,Olbia Costa Smeralda Airport
+LIER,Oristano-Fenosu Airport
+LIET,Tortolì Airport
+LILN,Varese-Venegono Airport
+LIMC,Milan Malpensa International Airport
+LIME,Milan Bergamo Airport / Antonio Locatelli Air Base
+LIMF,Turin Airport
+LIMG,Riviera Villanova d'Albenga International Airport
+LIMJ,Genoa Cristoforo Colombo Airport
+LIML,Milano Linate Airport
+LIMP,Parma Airport
+LIMW,Aosta Corrado Gex Airport
+LIMZ,Cuneo International Airport
+LIPA,Aviano Air Base
+LIPB,Bolzano Airport
+LIPD,Udine-Campoformido Air Base
+LIPE,Bologna Guglielmo Marconi Airport
+LIPH,Treviso Antonio Canova Airport
+LIPK,Forlì Luigi Ridolfi Airport
+LIPO,Brescia Gabriele d'Annunzio Airport
+LIPQ,Trieste–Friuli Venezia Giulia Airport
+LIPR,Federico Fellini International Airport
+LIPX,Verona Villafranca Valerio Catullo Airport
+LIPY,Marche Airport
+LIPZ,Venice Marco Polo Airport
+LIQL,Lucca-Tassignano Airport
+LIQS,Siena-Ampugnano Airport
+LIRA,Ciampino–G. B. Pastine International Airport
+LIRF,Rome–Fiumicino Leonardo da Vinci International Airport
+LIRI,Salerno Costa d'Amalfi Airport
+LIRJ,Marina di Campo Airport
+LIRN,Naples International Airport
+LIRP,Pisa International Airport
+LIRQ,"Florence Airport, Peretola"
+LIRS,Grosseto Corrado Baccarini Air Base / Grosseto Airport
+LIRZ,Perugia San Francesco d'Assisi – Umbria International Airport
+LJLJ,Ljubljana Jože Pučnik Airport
+LJMB,Maribor Edvard Rusjan Airport
+LJPZ,Portorož Airport
+LKCS,České Budějovice South Bohemian Airport
+LKKU,Kunovice Airport
+LKKV,Karlovy Vary Airport
+LKMT,Ostrava Leos Janáček Airport
+LKOL,Olomouc Airport
+LKPD,Pardubice Airport
+LKPO,Přerov Air Base
+LKPR,Václav Havel Airport Prague
+LKTB,Brno-Tuřany Airport
+LKVO,Vodochody Airport
+LKZA,Zábřeh Dolní Benešov Airfield
+LLBG,Ben Gurion International Airport
+LLBS,Beersheba (Teyman) Airport
+LLER,Ramon International Airport
+LLEY,Ein Yahav Airfield
+LLHA,Haifa International Airport
+LLIB,Rosh Pina Airport
+LLKS,Kiryat Shmona Airport
+LLMR,Mitzpe Ramon Airfield
+LLMZ,Bar Yehuda Airfield
+LLNV,Nevatim Air Base
+LLOV,Ovda Airport
+LLYT,Yotvata Airfield
+LMML,Malta International Airport
+LOIH,Hohenems-Dornbirn Airfield
+LOJD,Dornbirn City Hospital Heliport
+LOWG,Graz Airport
+LOWI,Innsbruck Airport
+LOWK,Klagenfurt Airport
+LOWL,Linz-Hörsching Airport / Vogler Air Base
+LOWS,Salzburg Airport
+LOWW,Vienna International Airport
+LPAZ,Santa Maria Airport
+LPBG,Bragança Airport
+LPBJ,Beja Airport / Airbase
+LPBR,Braga Municipal Aerodrome
+LPCH,Aerodromo de Chaves
+LPCO,Aerodromo Municipal de Coimbra
+LPCR,Corvo Airport
+LPCS,Cascais Airport
+LPFL,Flores Airport
+LPFR,Faro Airport
+LPGR,Graciosa Airport
+LPHR,Horta Airport
+LPLA,Lajes Airport
+LPMA,Madeira International Airport Cristiano Ronaldo
+LPPD,João Paulo II Airport
+LPPI,Pico Airport
+LPPM,Portimão Airport
+LPPR,Francisco de Sá Carneiro Airport
+LPPS,Porto Santo Airport
+LPPT,Lisbon Humberto Delgado Airport
+LPSJ,São Jorge Airport
+LPVR,Vila Real Airport
+LPVZ,Aerodromo Goncalves Lobato (Viseu Airport)
+LQBK,Banja Luka International Airport
+LQMO,Mostar International Airport
+LQSA,Sarajevo International Airport
+LQTZ,Tuzla International Airport
+LRAR,Arad International Airport
+LRBC,Bacău George Enescu International  Airport
+LRBM,Maramureș International Airport
+LRBS,Bucharest Băneasa Aurel Vlaicu International Airport
+LRBV,Brașov-Ghimbav International Airport
+LRCK,Mihail Kogălniceanu International Airport
+LRCL,Cluj Avram Iancu International Airport
+LRCS,Caransebeş Airport
+LRCV,Craiova International Airport
+LRIA,Iaşi Airport
+LROD,Oradea International Airport
+LROP,Bucharest Henri Coandă International Airport
+LRSB,Sibiu International Airport
+LRSM,Satu Mare International Airport
+LRSV,Suceava Stefan cel Mare Airport
+LRTC,Tulcea Danube Delta Airport
+LRTM,Târgu Mureş Transilvania International Airport
+LRTR,Timişoara Traian Vuia Airport
+LSGB,Bex Airfield
+LSGC,Les Eplatures Airport
+LSGE,Ecuvillens Airfield
+LSGG,Geneva Cointrin International Airport
+LSGK,Saanen Airfield
+LSGL,Lausanne-Blécherette Airfield
+LSGN,Neuchâtel Airfield
+LSGP,La Côte Airfield
+LSGR,Reichenbach Air Base
+LSGS,Sion Airport
+LSGT,La Gruyère  Airfield
+LSGY,Yverdon-les-Bains Airfield
+LSMA,Alpnach Air Base
+LSMD,Dübendorf Air Base
+LSME,Emmen Air Base
+LSMP,Payerne Air Base
+LSPA,Amlikon Airfield
+LSPG,Kägiswil Airfield
+LSPH,Winterthur Airfield
+LSPL,Langenthal Airfield
+LSPM,Ambri Airport
+LSPN,Triengen Airfield
+LSPU,Münster Airfield
+LSPV,Wangen-Lachen Airfield
+LSTA,Raron Airfield
+LSTO,Môtiers Airfield
+LSTS,Sankt Stephan Airfield
+LSTZ,Zweisimmen Airfield
+LSVD,Clariden-Hüfifirn Mountain Landing Site
+LSVP,Petersgrat Mountain Landing Site
+LSYK,Kanderfirn Mountain Landing Site
+LSYR,Rosa Blanche Mountain Landing Site
+LSYX,Glacier du Trient Mountain Landing Site
+LSZA,Lugano Airport
+LSZB,Bern Airport
+LSZC,Buochs Airport
+LSZE,Bad Ragaz Airfield
+LSZF,Birrfeld Airfield
+LSZG,Grenchen Airfield
+LSZH,Zürich Airport
+LSZI,Fricktal-Schupfart Airfield
+LSZK,Speck-Fehraltorf Airfield
+LSZL,Locarno Airport
+LSZM,Mollis Airfield
+LSZN,Hausen am Albis Airfield
+LSZO,Luzern-Beromünster Airfield
+LSZQ,Bressaucourt Airfield
+LSZR,Sankt Gallen Altenrhein Airport
+LSZS,Samedan Airport
+LSZT,Lommis Airfield
+LSZU,Buttwil Airfield
+LSZW,Thun Airfield
+LSZX,Schänis Airfield
+LTAC,Esenboğa International Airport
+LTAD,Etimesgut Air Base
+LTAF,Adana Şakirpaşa Airport
+LTAG,İncirlik Air Base
+LTAH,Afyon Air Base
+LTAI,Antalya International Airport
+LTAJ,Gaziantep International Airport
+LTAL,Kastamonu Airport
+LTAN,Konya Airport
+LTAP,Amasya Merzifon Airport
+LTAR,Sivas Nuri Demirağ Airport
+LTAS,Zonguldak Çaycuma Airport
+LTAT,Malatya Erhaç Airport
+LTAU,Kayseri Erkilet Airport
+LTAW,Tokat Airport
+LTAY,Çardak Airport
+LTAZ,Nevşehir Kapadokya Airport
+LTBA,İstanbul Atatürk Airport
+LTBD,Aydın Çıldır Airport
+LTBE,Bursa Yunuseli Airport
+LTBF,Balıkesir Airport
+LTBG,Bandırma Airport
+LTBH,Çanakkale Airport
+LTBI,Eskişehir Air Base
+LTBJ,Adnan Menderes International Airport
+LTBO,Uşak Airport
+LTBQ,Cengiz Topel Airport
+LTBR,Bursa Yenişehir Airport
+LTBS,Dalaman International Airport
+LTBU,Tekirdağ Çorlu Airport
+LTBV,Bodrum-Imsık Airport
+LTBY,Anadolu Airport
+LTBZ,Zafer Airport
+LTCA,Elazığ Airport
+LTCB,Ordu–Giresun Airport
+LTCC,Diyarbakır Airport
+LTCD,Erzincan Airport
+LTCE,Erzurum International Airport
+LTCF,Kars Airport
+LTCG,Trabzon International Airport
+LTCI,Van Ferit Melen Airport
+LTCJ,Batman Airport
+LTCK,Muş Airport
+LTCL,Siirt Airport
+LTCM,Sinop Airport
+LTCN,Kahramanmaraş Airport
+LTCO,Ağrı Airport
+LTCP,Adıyaman Airport
+LTCR,Mardin Airport
+LTCS,Şanlıurfa GAP Airport
+LTCT,Iğdır Airport
+LTCU,Bingöl Airport
+LTCV,Şırnak Şerafettin Elçi Airport
+LTCW,Hakkari Yüksekova Airport
+LTDA,Hatay Airport
+LTDB,Çukurova International Airport
+LTFC,Süleyman Demirel International Airport
+LTFD,Balıkesir Koca Seyit Airport
+LTFE,Milas Bodrum International Airport
+LTFG,Gazipaşa-Alanya Airport
+LTFH,Samsun-Çarşamba Airport
+LTFJ,Istanbul Sabiha Gökçen International Airport
+LTFK,Gökçeada Airport
+LTFM,İstanbul Airport
+LTFO,Rize–Artvin Airport
+LUBL,Bălți International Airport
+LUKK,Chişinău International Airport
+LWOH,Ohrid St. Paul the Apostle Airport
+LWSK,Skopje International Airport
+LWST,Suchevo Recreational Airfield
+LXGB,Gibraltar Airport
+LYBE,Belgrade Nikola Tesla Airport
+LYBR,Berane Airport
+LYBT,Batajnica Air Base
+LYKV,Morava Airport
+LYNI,Niš Constantine the Great Airport
+LYPG,Podgorica Airport / Podgorica Golubovci Airbase
+LYTV,Tivat Airport
+LYUZ,Ponikve Airport
+LZIB,M. R. Štefánik Airport
+LZKZ,Košice International Airport
+LZLU,Lučenec Airfield
+LZPP,Piešťany Airport
+LZPW,Prešov Air Base
+LZSL,Sliač Airport
+LZTT,Poprad-Tatry Airport
+LZZI,Žilina-Dolný Hričov Airport
+MBGT,JAGS McCartney International Airport
+MBMC,Middle Caicos Airport
+MBNC,North Caicos Airport
+MBPI,Pine Cay Airport
+MBPV,Providenciales International Airport
+MBSC,South Caicos Airport
+MBSY,Salt Cay Airport
+MDAB,Arroyo Barril Airport
+MDBH,Maria Montez International Airport
+MDCR,Cabo Rojo Airport
+MDCY,Samaná El Catey International Airport
+MDCZ,Constanza - Expedición 14 de Junio National Airport
+MDJB,La Isabela International Airport
+MDLR,Casa De Campo International Airport
+MDPC,Punta Cana International Airport
+MDPP,Gregorio Luperon International Airport
+MDSD,Las Américas International Airport
+MDST,Cibao International Airport
+MGCB,Coban Airport
+MGCR,Carmelita Airport
+MGCT,Coatepeque Airport
+MGGT,La Aurora Airport
+MGHT,Huehuetenango Airport
+MGPB,Puerto Barrios Airport
+MGPG,Playa Grande Airport
+MGPP,Poptún Airport
+MGQC,Quiché Airport
+MGQZ,Quezaltenango Airport
+MGRB,Rubelsanto Airport
+MGRD,Las Vegas Airport
+MGRT,Retalhuleu Airport
+MGSJ,San José Airport
+MHAH,Ahuas Airport
+MHCS,Coyoles Airport
+MHEA,El Arrayán Airport
+MHGE,El Aguacate Airport
+MHIR,Iriona Airport
+MHJU,Jutigalpa airport
+MHLC,Goloson International Airport
+MHLE,La Esperanza Airport
+MHLM,Ramón Villeda Morales International Airport
+MHNJ,La Laguna Airport
+MHPC,Palacios Airport
+MHPL,Puerto Lempira Airport
+MHRO,Juan Manuel Gálvez International Airport
+MHTE,Tela Airport
+MHTG,Toncontín International Airport
+MHTJ,Trujillo Airport
+MHUL,Sulaco Airport
+MHUT,Utila Airport
+MHYR,Yoro Airport
+MKBS,Ian Fleming International Airport
+MKJP,Norman Manley International Airport
+MKJS,Sangster International Airport
+MKKJ,Ken Jones Airport
+MKNG,Negril Airport
+MKTP,Tinson Pen Airport
+MMAA,General Juan N. Álvarez International Airport
+MMAN,Del Norte International Airport
+MMAS,Jesús Terán Peredo International Airport
+MMBT,Bahías de Huatulco International Airport
+MMCA,Cananea National Airport
+MMCB,General Mariano Matamoros International Airport
+MMCC,Ciudad Acuña New International Airport
+MMCE,Ciudad del Carmen International Airport
+MMCG,Aeropuerto Municipal de Nuevo Casas Grandes
+MMCL,Bachigualato Federal International Airport
+MMCM,Chetumal International Airport
+MMCN,Ciudad Obregón International Airport
+MMCO,San Antonio Copalar Airport
+MMCP,Ingeniero Alberto Acuña Ongay International Airport
+MMCS,Abraham González International Airport
+MMCT,Chichén Itzá International Airport
+MMCU,General Roberto Fierro Villalobos International Airport
+MMCV,General Pedro Jose Mendez International Airport
+MMCY,Captain Rogelio Castillo National Airport
+MMCZ,Cozumel International Airport
+MMDM,Ciudad Mante Los Huastecas National Airport
+MMDO,General Guadalupe Victoria International Airport
+MMEP,Amado Nervo National Airport
+MMES,Ensenada International Airport / El Ciprés Air Base
+MMGL,Guadalajara International Airport
+MMGM,General José María Yáñez International Airport
+MMGR,Guerrero Negro Airport
+MMHC,Tehuacán National Airport
+MMHO,General Ignacio P. Garcia International Airport
+MMIA,Licenciado Miguel de la Madrid International Airport
+MMIM,Isla Mujeres National Airport
+MMIO,Plan De Guadalupe International Airport
+MMIT,General Antonio Cárdenas Rodríguez National Airport / Ixtepec Air Base
+MMJA,El Lencero Airport
+MMJC,Jorge Jiménez Cantú National Airport
+MMLC,Lázaro Cárdenas Airport
+MMLM,Valle del Fuerte International Airport
+MMLO,Del Bajío International Airport
+MMLP,Manuel Márquez de León International Airport
+MMLT,Loreto International Airport
+MMMA,General Servando Canales International Airport
+MMMD,Manuel Crescencio Rejón International Airport
+MMMG,Mulege Airport
+MMML,General Rodolfo Sánchez Taboada International Airport
+MMMM,General Francisco J. Mujica International Airport
+MMMT,Minatitlán/Coatzacoalcos International Airport
+MMMV,Monclova International Airport
+MMMX,Benito Juárez International Airport
+MMMY,Monterrey International Airport
+MMMZ,General Rafael Buelna International Airport
+MMNG,Nogales International Airport
+MMNL,Quetzalcóatl International Airport
+MMOX,Xoxocotlán International Airport
+MMPA,El Tajín National Airport
+MMPB,Hermanos Serdán International Airport
+MMPE,Mar de Cortés International Airport
+MMPG,Piedras Negras International Airport
+MMPL,Punta Colorada Airport
+MMPN,Uruapan - Licenciado y General Ignacio Lopez Rayon International Airport
+MMPQ,Palenque International Airport
+MMPR,Puerto Vallarta International Airport
+MMPS,Puerto Escondido International Airport
+MMQT,Querétaro Intercontinental Airport
+MMRX,General Lucio Blanco International Airport
+MMSD,Los Cabos International Airport
+MMSF,San Felipe International Airport
+MMSM,General Felipe Ángeles International Airport
+MMSP,Ponciano Arriaga International Airport
+MMSZ,Estación Aeronaval de Salina Cruz
+MMTC,Francisco Sarabia Tinoco International Airport
+MMTG,Angel Albino Corzo International Airport
+MMTJ,General Abelardo L. Rodriguez International Airport
+MMTL,Felipe Carrillo Puerto International Airport
+MMTM,General Francisco Javier Mina International Airport
+MMTN,Tamuín National Airport
+MMTO,Adolfo López Mateos International Airport
+MMTP,Tapachula International Airport
+MMTU,Base Aeronaval de Tulum
+MMUN,Cancún International Airport
+MMVA,Carlos Rovirosa Pérez International Airport
+MMVR,General Heriberto Jara International Airport
+MMZC,General Leobardo C. Ruiz International Airport
+MMZH,Ixtapa-Zihuatanejo International Airport
+MMZM,Zamora Airport
+MMZO,Playa de Oro International Airport
+MNBL,Bluefields Airport
+MNBZ,San Pedro Airport
+MNCE,Costa Esmeralda Airport
+MNCI,Corn Island Airport
+MNMG,Augusto C. Sandino (Managua) International Airport
+MNPC,Puerto Cabezas Airport
+MNRT,Rosita Airport
+MNSC,San Carlos Airport
+MNSI,Siuna
+MNWP,Waspam Airport
+MPBO,Bocas del Toro International Airport
+MPCE,Alonso Valderrama Airport
+MPCH,Changuinola Captain Manuel Niño International Airport
+MPDA,Enrique Malek International Airport
+MPEJ,Enrique Adolfo Jimenez Airport
+MPJE,Jaqué Airport
+MPMG,Marcos A. Gelabert International Airport
+MPOA,Puerto Obaldía Airport
+MPSA,Ruben Cantu Airport
+MPSM,Scarlett Martinez International Airport
+MPTO,Tocumen International Airport
+MPVR,El Porvenir Airport
+MPWN,Wannukandi Airport
+MRAN,La Fortuna Arenal Airport
+MRBA,Buenos Aires Airport
+MRBC,Barra del Colorado Airport
+MRBT,Barra del Tortuguero
+MRCC,Coto 47 Airport
+MRCH,Chacarita Airport
+MRCR,Playa Samara/Carrillo Airport
+MRDK,Drake Bay Airport
+MRGF,Golfito Airport
+MRGP,Guapiles Airport
+MRIA,Islita Airport
+MRLB,Guanacaste Airport
+MRLC,Los Chiles Airport
+MRLM,Limon International Airport
+MRMJ,Mojica Airport
+MRNC,Guanacaste Airport
+MRNS,Nosara Airport
+MROC,Juan Santamaría International Airport
+MRPJ,Puerto Jimenez Airport
+MRPM,Palmar Sur Airport
+MRPV,Tobías Bolaños International Airport
+MRQP,Quepos Managua Airport
+MRRF,Rio Frio / Progreso Airport
+MRSI,San Isidro del General Airport
+MRSV,San Vito de Java Airport
+MRTM,Tamarindo Airport
+MRTR,Tambor Airport
+MRUP,Upala Airport
+MSLP,Monseñor Óscar Arnulfo Romero International Airport
+MSSS,Ilopango International Airport
+MTCA,Antoine-Simon International Airport
+MTCH,Cap Haitien International Airport
+MTJA,Jacmel Airport
+MTJE,Jérémie Airport
+MTPP,Toussaint Louverture International Airport
+MTPX,Port-de-Paix Airport
+MUBA,Gustavo Rizo Airport
+MUBR,Las Brujas Airport
+MUBY,Carlos Manuel de Cespedes Airport
+MUCA,Máximo Gómez Airport
+MUCC,Jardines Del Rey Airport
+MUCF,Jaime Gonzalez Airport
+MUCL,Vilo Acuña International Airport
+MUCM,Ignacio Agramonte International Airport
+MUCU,Antonio Maceo International Airport
+MUGM,Leeward Point Field
+MUGT,Mariana Grajales Airport
+MUHA,José Martí International Airport
+MUHG,Frank Pais International Airport
+MUKW,Kawama Airport
+MULM,La Coloma Airport
+MUMO,Orestes Acosta Airport
+MUMZ,Sierra Maestra International Airport
+MUNG,Rafael Cabrera Airport
+MUPB,Playa Baracoa Airport
+MUSC,Abel Santamaria Airport
+MUSJ,San Julián Air Base
+MUSN,Siguanea Airport
+MUSS,Sancti Spiritus Airport
+MUTD,Alberto Delgado Airport
+MUVR,Juan Gualberto Gomez International Airport
+MUVT,Hermanos Ameijeiras Airport
+FWCC,Chintheche Aerodrome
+MWCB,Charles Kirkconnell International Airport
+MWCL,Edward Bodden Little Cayman Airfield
+MWCR,Owen Roberts International Airport
+MYAB,Clarence A. Bain Airport
+MYAF,Andros Town Airport
+MYAK,Congo Town Airport
+MYAM,Leonard M Thompson International Airport
+MYAN,San Andros Airport
+MYAP,Spring Point Airport
+MYAT,Treasure Cay Airport
+MYAW,Walkers Cay Airport
+MYBC,Chub Cay Airport
+MYBG,Great Harbour Cay Airport
+MYBS,South Bimini Airport
+MYCA,Arthur's Town Airport
+MYCB,New Bight Airport
+MYCC,Cat Cay Airport
+MYCI,Colonel Hill Airport
+MYCP,Pitts Town Airport
+MYEF,Exuma International Airport
+MYEH,North Eleuthera Airport
+MYEM,Governor's Harbour Airport
+MYEN,Normans Cay Airport
+MYER,Rock Sound Airport
+MYES,Staniel Cay Airport
+MYGF,Grand Bahama International Airport
+MYGW,West End Airport
+MYIG,Inagua Airport
+MYLD,Deadman's Cay Airport
+MYLS,Stella Maris Airport
+MYMM,Mayaguana Airport
+MYNN,Lynden Pindling International Airport
+MYRD,Duncan Town Airport
+MYRP,Rum Cay International Airport
+MYSM,San Salvador Airport
+MZBZ,Philip S. W. Goldson International Airport
+MZPL,Placencia Airport
+FYRH,Rehoboth (Oanob Resort) Airport
+FYKX,Khorixas Airport
+NCAI,Aitutaki Airport
+NCAT,Enua Airport
+NCMG,Mangaia Island Airport
+NCMH,Manihiki Island Airport
+NCMK,Mauke Airport
+NCMR,Mitiaro Island Airport
+NCPK,Pukapuka Island Airport
+NCPY,Tongareva Airport
+NCRG,Rarotonga International Airport
